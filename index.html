@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- ============================================================
+         CONFIGURACIÓN BÁSICA DEL DOCUMENTO
+    ============================================================ -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARMY MEN | Equipamiento Militar de Calidad</title>
+    <meta name="description" content="Catálogo de prendas y equipamiento militar: uniformes, botas, mochilas tácticas, chalecos, gorras y accesorios. Calidad y resistencia para trabajo, entrenamiento y aventura.">
+
+    <!-- ============================================================
+         FUENTES TIPOGRÁFICAS (Google Fonts)
+         - Oswald: fuente condensada para titulares y etiquetas (identidad "stencil/militar")
+         - Inter: fuente para texto de lectura, limpia y muy legible
+    ============================================================ -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- ============================================================
+         BOOTSTRAP 5.3 (CDN) + BOOTSTRAP ICONS (CDN)
+    ============================================================ -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- ============================================================
+         HOJA DE ESTILOS PROPIA (identidad visual de la tienda)
+    ============================================================ -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- ============================================================
+         ENLACE DE SALTO PARA ACCESIBILIDAD (usuarios de teclado/lectores de pantalla)
+    ============================================================ -->
+    <a class="visually-hidden-focusable skip-link" href="#contenido-principal">Saltar al contenido principal</a>
+
+    <!-- ============================================================
+         NAVBAR FIJA
+    ============================================================ -->
+    <header>
+        <nav class="navbar navbar-expand-lg fixed-top navbar-armymen" id="navbarPrincipal" aria-label="Navegación principal">
+            <div class="container">
+
+                <!-- Logo + nombre de la tienda -->
+                <a class="navbar-brand d-flex align-items-center gap-2" href="#inicio">
+                    <span>
+                        <i><img src="img/Logo.jpg" style="border-radius: 100%; height: 40px;"></i>
+                    </span>
+                    <span class="marca-nombre">
+                        ARMY <span class="marca-nombre-acento">MEN</span>
+                    </span>
+                </a>
+
+                <!-- Botón hamburguesa (móvil) -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menuPrincipal"
+                        aria-controls="menuPrincipal" aria-expanded="false" aria-label="Abrir menú de navegación">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Enlaces de navegación -->
+                <div class="collapse navbar-collapse" id="menuPrincipal">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0 gap-lg-2 text-center">
+                        <li class="nav-item"><a class="nav-link" href="#inicio">Inicio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#catalogo">Catálogo</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#nosotros">Nosotros</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contacto">Contacto</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main id="contenido-principal">
+
+        <!-- ============================================================
+             1. HERO PRINCIPAL
+        ============================================================ -->
+        <section id="inicio" class="hero-seccion d-flex align-items-center" aria-label="Presentación principal">
+            <!-- Imagen de fondo + degradado (aplicados vía CSS en .hero-seccion / .hero-overlay) -->
+            <div class="hero-overlay"></div>
+            <div class="hero-textura-mapa" aria-hidden="true"></div>
+
+            <div class="container position-relative hero-contenido">
+                <div class="row justify-content-center text-center">
+                    <div class="col-lg-9">
+                        <p class="eyebrow eyebrow-claro reveal" data-reveal>Equipamiento profesional</p>
+                        <h1 class="hero-titulo reveal" data-reveal>Equipamiento Militar de Calidad</h1>
+                        <p class="hero-subtitulo reveal" data-reveal>
+                            Encuentra prendas, accesorios y equipamiento militar para trabajo, entrenamiento y aventura.
+                        </p>
+                        <div class="d-flex flex-column flex-sm-row justify-content-center gap-3 mt-4 reveal" data-reveal>
+                            <a href="#catalogo" class="btn btn-armymen-primario btn-lg px-4">
+                                <i class="bi bi-grid-3x3-gap-fill me-2"></i>Ver Catálogo
+                            </a>
+                            <a href="#contacto" class="btn btn-armymen-outline-claro btn-lg px-4">
+                                <i class="bi bi-whatsapp me-2"></i>Contactar
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ============================================================
+             ESTADÍSTICAS (placas estilo "chapa militar" superpuestas al hero)
+        ============================================================ -->
+        <section class="estadisticas-seccion" aria-label="Datos de la tienda">
+            <div class="container">
+                <div class="row g-3 g-md-4 justify-content-center">
+                    <div class="col-6 col-md-4">
+                        <div class="placa-estadistica reveal" data-reveal>
+                            <span class="placa-remache" aria-hidden="true"></span>
+                            <span class="placa-numero" data-contador data-objetivo="100">0</span><span class="placa-numero">+</span>
+                            <span class="placa-etiqueta">Productos</span>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-4">
+                        <div class="placa-estadistica reveal" data-reveal>
+                            <span class="placa-remache" aria-hidden="true"></span>
+                            <span class="placa-numero" data-contador data-objetivo="3">0</span><span class="placa-numero">+</span>
+                            <span class="placa-etiqueta">Años de experiencia</span>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-4">
+                        <div class="placa-estadistica reveal" data-reveal>
+                            <span class="placa-remache" aria-hidden="true"></span>
+                            <span class="placa-numero" data-contador data-objetivo="1000">0</span><span class="placa-numero">+</span>
+                            <span class="placa-etiqueta">Clientes satisfechos</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- CARRUSEL -->
+
+        
+
+        <!-- ============================================================
+             3. CATÁLOGO DE PRODUCTOS (sección principal)
+        ============================================================ -->
+        <section id="catalogo" class="seccion-padding fondo-hueso" aria-label="Catálogo de productos">
+            <div class="container">
+                <div class="row mb-4">
+                    <div class="col-lg-6">
+                        <input id="buscador" type="text" class="form-control form-control-lg" placeholder="🔍 Buscar productos...">
+                    </div>
+                    <div class="col-lg-3 mt-3 mt-lg-0">
+                        <select id="ordenar" class="form-select form-select-lg">
+                            <option value="nombre">Nombre (A-Z)</option>
+                            <option value="nombre-desc">Nombre (Z-A)</option>
+                        </select>
+                    </div>
+                    <div class="col-lg-3 mt-3 mt-lg-0">
+                        <div id="contadorProductos" class="text-end fw-bold pt-2"></div>
+                    </div>
+                </div>
+
+                <!--PRODUCTOS-->
+                <section id="catalogo" class="container py-5">
+
+                    <div id="contenedorFiltros" class="mb-4"></div>
+                    <div class="row g-4" id="contenedor-productos"></div>
+                    <div class="d-flex justify-content-center mt-5">
+                        <div id="paginacion"></div>
+                    </div>
+
+                </section>
+
+                <div class="d-flex justify-content-center mt-5">
+                    <div id="paginacion"></div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Separador decorativo -->
+        <div class="separador-angular separador-invertido" aria-hidden="true"></div>
+
+        <!-- ============================================================
+             5. ¿POR QUÉ ELEGIRNOS?
+        ============================================================ -->
+        <section id="ventajas" class="seccion-padding fondo-bosque" aria-label="Por qué elegirnos">
+            <div class="container">
+                <div class="text-center mb-5">
+                    <p class="eyebrow eyebrow-claro reveal" data-reveal>La gran diferencia</p>
+                    <h2 class="titulo-seccion titulo-claro reveal" data-reveal>¿Por Qué Elegirnos?</h2>
+                </div>
+
+                <div class="row g-4">
+                    <div class="col-6 col-lg-3">
+                        <div class="tarjeta-ventaja reveal" data-reveal>
+                            <h3 class="tarjeta-ventaja-titulo">Calidad Garantizada</h3>
+                            <p class="tarjeta-ventaja-texto">Seleccionamos cada producto bajo estándares exigentes de fabricación.</p>
+                        </div>
+                    </div>
+                    <div class="col-6 col-lg-3">
+                        <div class="tarjeta-ventaja reveal" data-reveal>
+                            <h3 class="tarjeta-ventaja-titulo">Productos Resistentes</h3>
+                            <p class="tarjeta-ventaja-texto">Materiales pensados para soportar el uso intensivo en campo.</p>
+                        </div>
+                    </div>
+                    <div class="col-6 col-lg-3">
+                        <div class="tarjeta-ventaja reveal" data-reveal>
+                            <h3 class="tarjeta-ventaja-titulo">Atención Personalizada</h3>
+                            <p class="tarjeta-ventaja-texto">Te asesoramos para encontrar el equipo que mejor se adapta a tu actividad.</p>
+                        </div>
+                    </div>
+                    <div class="col-6 col-lg-3">
+                        <div class="tarjeta-ventaja reveal" data-reveal>
+                            <h3 class="tarjeta-ventaja-titulo">Amplio Catálogo</h3>
+                            <p class="tarjeta-ventaja-texto">Seis categorías de producto para equiparte de la cabeza a los pies.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ============================================================
+             6. NOSOTROS
+        ============================================================ -->
+        <section id="nosotros" class="seccion-padding fondo-lino" aria-label="Sobre nosotros">
+            <div class="container">
+                <div class="row align-items-center g-5">
+                    <div class="col-lg-6 reveal" data-reveal>
+                        <div class="nosotros-imagen-wrapper">
+                            <img src="img/ram-fondo.jpg" class="img-tono-militar nosotros-imagen" alt="Equipo de ARMY MEN revisando equipamiento militar" loading="lazy">
+                            <span class="nosotros-marco" aria-hidden="true"></span>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 reveal" data-reveal>
+                        <p class="eyebrow">Quiénes somos</p>
+                        <h2 class="titulo-seccion text-start">Equipamos a quienes no se detienen</h2>
+                        <p class="parrafo-nosotros">
+                            En ARMY MEN seleccionamos prendas y equipamiento militar pensado para
+                            quienes exigen resistencia real: personal de trabajo de campo, entusiastas del
+                            entrenamiento físico y amantes de la aventura al aire libre.
+                        </p>
+                        <p class="parrafo-nosotros">
+                            Cada producto de nuestro catálogo pasa por un criterio simple: debe funcionar bajo
+                            presión. Trabajamos con materiales resistentes, confección cuidada y un catálogo
+                            para que encientres lo que necesitas.
+                        </p>
+                        <div class="row g-3 mt-3">
+                            <div class="col-6">
+                                <div class="nosotros-mini-stat">
+                                    <i class="bi bi-check2-circle"></i>
+                                    <span>Materiales seleccionados</span>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="nosotros-mini-stat">
+                                    <i class="bi bi-check2-circle"></i>
+                                    <span>Catálogo</span>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="nosotros-mini-stat">
+                                    <i class="bi bi-check2-circle"></i>
+                                    <span>Asesoría cercana</span>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="nosotros-mini-stat">
+                                    <i class="bi bi-check2-circle"></i>
+                                    <span>Enfoque en durabilidad</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Separador decorativo -->
+        <div class="separador-angular" aria-hidden="true"></div>
+
+        <!-- ============================================================
+             7. CONTACTO
+        ============================================================ -->
+        <section id="contacto" class="seccion-padding fondo-hueso" aria-label="Información de contacto">
+            <div class="container">
+                <!--UBICACION-->
+                <section id="ubicacion" class="py-5">
+                    <div class="container">
+                        <div class="text-center mb-5">
+                            <h2 class="titulo-seccion">Nuestra Ubicación</h2>
+                            <p>Visítanos en nuestra tienda física.</p>
+                        </div>
+                        <div class="row g-4 align-items-center">
+                            <div class="col-lg-4">
+                                <h4>ARMY MEN</h4>
+                                <p>
+                                    <i class="bi bi-geo-alt-fill"></i>
+                                    Dirección de la tienda
+                                </p>
+                                <p>
+                                    <i class="bi bi-clock-fill"></i>
+                                    Lunes a Domingo
+                                </p>
+                                <p>
+                                    <i class="bi bi-whatsapp"></i>
+                                    +591 78751669
+                                </p>
+                            </div>
+                            <div class="col-lg-8">
+                            
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3825.6031189901037!2d-68.167633!3d-16.495622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTbCsDI5JzQ0LjIiUyA2OMKwMTAnMDMuNSJX!5e0!3m2!1ses-419!2sbo!4v1784169795934!5m2!1ses-419!2sbo" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                            
+                            </div>
+                        
+                        </div>
+                    
+                    </div>
+                </section>
+
+                <!-- ======================================================
+                     CONOCE NUESTRA TIENDA
+                ====================================================== -->
+                <section class="seccion-tienda py-5">
+                    <div class="container">
+                        <div class="text-center mb-5">
+                            <p class="eyebrow">Nuestra tienda</p>
+                            <h2 class="titulo-seccion">
+                                Conoce Nuestra Tienda
+                            </h2>
+                            <p class="subtitulo-seccion mx-auto">
+                                Visítanos y descubre una amplia variedad de uniformes, calzados,
+                                mochilas, chalecos y accesorios tácticos. Nuestro equipo estará
+                                encantado de atenderte.
+                            </p>
+                        </div>
+                        <div class="row align-items-center gy-4">
+                            <!-- Carrusel -->
+                            <div class="col-lg-7">
+                                <div id="carouselTienda"
+                                    class="carousel slide shadow rounded overflow-hidden"
+                                    data-bs-ride="carousel"
+                                    data-bs-interval="5000"
+                                    data-bs-pause="false"
+                                    data-bs-touch="true">
+                                    <div class="carousel-indicators">
+                                        <button type="button"
+                                                data-bs-target="#carouselTienda"
+                                                data-bs-slide-to="0"
+                                                class="active"></button>
+                                        <button type="button"
+                                                data-bs-target="#carouselTienda"
+                                                data-bs-slide-to="1"></button>
+                                        <button type="button"
+                                                data-bs-target="#carouselTienda"
+                                                data-bs-slide-to="2"></button>
+                                        <button type="button"
+                                                data-bs-target="#carouselTienda"
+                                                data-bs-slide-to="3"></button>
+                                        <button type="button"
+                                                data-bs-target="#carouselTienda"
+                                                data-bs-slide-to="4"></button>
+                                    </div>
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                            <img src="img/tienda/fachada.jpg"
+                                                 class="d-block w-100"
+                                                 alt="Tienda">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="img/tienda/fachada2.jpg"
+                                                 class="d-block w-100"
+                                                 alt="Productos">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="img/tienda/uniformes.jpg"
+                                                 class="d-block w-100"
+                                                 alt="Interior">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="img/tienda/accesorios.jpg"
+                                                 class="d-block w-100"
+                                                 alt="Uniformes">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="img/tienda/calzados.jpg"
+                                                 class="d-block w-100"
+                                                 alt="Accesorios">
+                                        </div>
+                                    </div>
+                                    <button class="carousel-control-prev"
+                                            type="button"
+                                            data-bs-target="#carouselTienda"
+                                            data-bs-slide="prev">
+                                        <span class="carousel-control-prev-icon"></span>
+                                    </button>
+                                    <button class="carousel-control-next"
+                                            type="button"
+                                            data-bs-target="#carouselTienda"
+                                            data-bs-slide="next">
+                                        <span class="carousel-control-next-icon"></span>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <!-- Información -->
+                        
+                            <div class="col-lg-5">
+                                <h3 class="mb-4">
+                                    ¿Por qué visitarnos?
+                                </h3>
+                                <ul class="lista-tienda">
+                                    <li>
+                                        <i class="bi bi-check-circle-fill"></i>
+                                        Amplia variedad de productos tácticos.
+                                    </li>
+                                    <li>
+                                        <i class="bi bi-check-circle-fill"></i>
+                                        Atención personalizada.
+                                    </li>
+                                    <li>
+                                        <i class="bi bi-check-circle-fill"></i>
+                                        Equipamiento militar y policial.
+                                    </li>
+                                    <li>
+                                        <i class="bi bi-check-circle-fill"></i>
+                                        Productos seleccionados de calidad.
+                                    </li>
+                                    <li>
+                                        <i class="bi bi-check-circle-fill"></i>
+                                        Ubicación accesible.
+                                    </li>
+                                </ul>
+                                <div class="mt-4 d-flex gap-3 flex-wrap">
+                                    <a href="#contactanos"
+                                       class="btn btn-vanguardia-primario">
+                                        <i class="bi bi-whatsapp me-2"></i>
+                                        Contactar
+                                    </a>
+                                    <a href="#ubicacion"
+                                       class="btn btn-vanguardia-outline">
+                                        <i class="bi bi-geo-alt me-2"></i>
+                                        Ver ubicación
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Separador decorativo -->
+                <div class="separador-angular" aria-hidden="true"></div>
+
+                <div class="text-center mb-5" id="contactanos">
+                    <p class="eyebrow reveal" data-reveal>Hablemos</p>
+                    <h2 class="titulo-seccion reveal" data-reveal>Contacto</h2>
+                    <p class="subtitulo-seccion mx-auto reveal" data-reveal>
+                        Escríbenos y te ayudamos a encontrar el equipo adecuado para tu actividad.
+                    </p>
+                </div>
+
+                <div class="row g-4 justify-content-center">
+                    <div class="col-sm-6 col-lg-3">
+                        <div class="tarjeta-contacto reveal" data-reveal>
+                            <div class="tarjeta-contacto-icono"><i class="bi bi-geo-alt-fill"></i></div>
+                            <h3 class="tarjeta-contacto-titulo">Dirección</h3>
+                            <p class="tarjeta-contacto-texto">Av. Panoramica<br>La Paz, Bolivia</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-3">
+                        <div class="tarjeta-contacto reveal" data-reveal>
+                            <div class="tarjeta-contacto-icono"><i class="bi bi-whatsapp"></i></div>
+                            <h3 class="tarjeta-contacto-titulo">WhatsApp</h3>
+                            <p class="tarjeta-contacto-texto">+591 78751669</p>
+                            <p class="tarjeta-contacto-texto">+591 69990811</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-3">
+                        <div class="tarjeta-contacto reveal" data-reveal>
+                            <div class="tarjeta-contacto-icono"><i class="bi bi-envelope-fill"></i></div>
+                            <h3 class="tarjeta-contacto-titulo">Correo</h3>
+                            <p class="tarjeta-contacto-texto">armymen@gmail.com</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center mt-4">
+                    <div class="col-lg-8">
+                        <div class="franja-horario reveal" data-reveal>
+                            <div class="d-flex align-items-center gap-3">
+                                <i class="bi bi-clock-fill franja-horario-icono"></i>
+                                <div>
+                                    <h3 class="franja-horario-titulo mb-1">Horario de atención</h3>
+                                    <p class="franja-horario-texto mb-0">Lunes a viernes: 9:00 – 19:00 &nbsp;·&nbsp; Domingos: 8:00 – 20    :00</p>
+                                </div>
+                            </div>
+                            <a href="https://wa.me/59178751669" target="_blank" rel="noopener noreferrer" class="btn btn-armymen-primario btn-lg" aria-label="Contactar por WhatsApp (se abre en una pestaña nueva)">
+                                <i class="bi bi-whatsapp me-2"></i>Escribir por WhatsApp
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- ============================================================
+         8. FOOTER
+    ============================================================ -->
+    <footer class="footer-armymen">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-lg-4">
+                    <a href="#inicio" class="navbar-brand d-flex align-items-center gap-2 mb-3">
+                        <span>
+                        <i><img src="img/Logo.jpg" style="border-radius: 100%; height: 40px;"></i>
+                        </span>
+                        <span class="marca-nombre marca-nombre-footer">ARMY <span class="marca-nombre-acento">MEN</span></span>
+                    </a>
+                    <p class="footer-texto">
+                        Prendas y equipamiento militar para trabajo, entrenamiento y aventura.
+                        Calidad y resistencia en cada producto de nuestro catálogo.
+                    </p>
+                </div>
+
+                <div class="col-6 col-lg-2">
+                    <h3 class="footer-titulo">Enlaces</h3>
+                    <ul class="footer-lista">
+                        <li><a href="#inicio">Inicio</a></li>
+                        <li><a href="#catalogo">Catálogo</a></li>
+                        <li><a href="#nosotros">Nosotros</a></li>
+                        <li><a href="#contacto">Contacto</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-6 col-lg-3">
+                    <h3 class="footer-titulo">Categorías</h3>
+                    <ul class="footer-lista">
+                        <li><a href="#catalogo">Uniformes</a></li>
+                        <li><a href="#catalogo">Botas Militares</a></li>
+                        <li><a href="#catalogo">Mochilas Tácticas</a></li>
+                        <li><a href="#catalogo">Chalecos</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-lg-3">
+                    <h3 class="footer-titulo">Síguenos</h3>
+                    <div class="d-flex gap-2 footer-redes">
+                        <a href="#" class="footer-red-icono" aria-label="Síguenos en Facebook"><i class="bi bi-facebook"></i></a>
+                        <a href="#" class="footer-red-icono" aria-label="Síguenos en Instagram"><i class="bi bi-instagram"></i></a>
+                        <a href="https://wa.me/59178751669" target="_blank" rel="noopener noreferrer" class="footer-red-icono" aria-label="Escríbenos por WhatsApp"><i class="bi bi-whatsapp"></i></a>
+                        <a href="#" class="footer-red-icono" aria-label="Síguenos en TikTok"><i class="bi bi-tiktok"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <hr class="footer-divisor">
+
+            <div class="text-center footer-copy">
+                &copy; <span id="anioActual">2026</span> ARMY MEN. Todos los derechos reservados.
+                Catálogo con fines de exhibición — no incluye venta en línea.
+            </div>
+        </div>
+    </footer>
+
+    <!-- ============================================================
+         MODAL: DETALLE DE PRODUCTO (contenido rellenado por JS)
+    ============================================================ -->
+    <div class="modal fade" id="modalProducto" tabindex="-1" aria-labelledby="modalProductoTitulo" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content modal-armymen">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="modalProductoTitulo">Nombre del producto</h2>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row g-4">
+                        <div class="col-md-6">
+                            <img src="" id="modalProductoImagen" class="img-tono-militar modal-producto-imagen" alt="">
+                        </div>
+                        <div class="col-md-6">
+                            <span class="etiqueta-categoria etiqueta-categoria-estatica" id="modalProductoCategoria">Categoría</span>
+                            <p class="modal-producto-descripcion mt-3" id="modalProductoDescripcion">Descripción del producto.</p>
+                            <h3 class="modal-producto-subtitulo">Características</h3>
+                            <ul class="lista-caracteristicas" id="modalProductoCaracteristicas"></ul>
+                            <span class="estado-disponible mt-2" id="modalProductoDisponible">
+                                <span class="punto-estado" aria-hidden="true"></span>Disponible
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <a href="https://wa.me/59178751669" target="_blank" rel="noopener noreferrer" class="btn btn-armymen-primario">
+                        <i class="bi bi-whatsapp me-2"></i>Consultar por este producto
+                    </a>
+                    <button type="button" class="btn btn-armymen-outline" data-bs-dismiss="modal">Cerrar</button>
+                </div>
+                <div class="mt-4">
+                    <a id="btnWhatsapp" class="btn btn-success w-100" target="_blank">
+                        <i class="bi bi-whatsapp"></i>
+                        Consultar por WhatsApp
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ============================================================
+         BOTONES FLOTANTES: WHATSAPP + VOLVER ARRIBA
+    ============================================================ -->
+    <a href="https://wa.me/59178751669" target="_blank" rel="noopener noreferrer" class="boton-flotante boton-whatsapp" aria-label="Contactar por WhatsApp (se abre en una pestaña nueva)">
+        <i class="bi bi-whatsapp"></i>
+    </a>
+
+    <button type="button" class="boton-flotante boton-volver-arriba" id="botonVolverArriba" aria-label="Volver arriba">
+        <i class="bi bi-arrow-up"></i>
+    </button>
+
+    <!--===================MODAL===========================-->
+    <div class="modal fade" id="productoModal" tabindex="-1" aria-labelledby="modalTitulo" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <h5 id="modalTitulo" class="modal-title"></h5>
+
+                    <button
+                        type="button"
+                        class="btn-close"
+                        data-bs-dismiss="modal"
+                        aria-label="Cerrar">
+                    </button>
+                </div>
+
+                <div class="modal-body">
+
+                    <img
+                        id="modalImagen"
+                        class="img-fluid rounded mb-4 w-100"
+                        alt="Producto">
+                    <small class="text-muted">
+                        <i class="bi bi-zoom-in"></i>
+                        Haz clic en la imagen para ampliarla
+                    </small><br>
+                    <span
+                        id="modalCategoria"
+                        class="badge bg-success mb-3">
+                    </span>
+
+                    <p id="modalDescripcion"></p>
+
+                    <h6 class="fw-bold mt-4">Características</h6>
+
+                    <ul id="modalCaracteristicas"></ul>
+
+                </div>
+
+                <div class="modal-footer">
+
+                    <a
+                        id="btnWhatsAppProducto"
+                        href="#"
+                        target="_blank"
+                        class="btn btn-success">
+
+                        <i class="bi bi-whatsapp me-2"></i>
+
+                        Consultar por WhatsApp
+
+                    </a>
+
+                    <button
+                        type="button"
+                        class="btn btn-secondary"
+                        data-bs-dismiss="modal">
+
+                        Cerrar
+
+                    </button>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="imagenModal" tabindex="-1">
+        <div class="modal-dialog modal-xl modal-dialog-centered">
+            <div class="modal-content bg-dark border-0">
+                <div class="modal-header border-0">
+                    <button
+                        class="btn-close btn-close-white"
+                        data-bs-dismiss="modal">
+                    </button>
+                </div>
+                <div class="modal-body text-center">
+                    <img
+                        id="imagenGrande"
+                        class="img-fluid rounded"
+                        alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ============================================================
+         SCRIPTS
+    ============================================================ -->
+    <!-- Bootstrap Bundle (incluye Popper, necesario para el modal) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Script propio -->
+     <script src="js/productos.js"></script>
+     <script src="js/modal.js"></script>
+     <script src="js/filtros.js"></script>
+     <script src="js/paginacion.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,1975 @@
+[
+  {
+    "id": 1,
+    "nombre": "Chamarra 1A",
+    "categoria": "Uniformes",
+    "descripcion": "Chamarra táctica diseñada para brindar comodidad y protección durante actividades operativas, entrenamiento y uso diario.",
+    "caracteristicas": [
+      "Diseño táctico",
+      "Material resistente",
+      "Ideal para uso operativo"
+    ],
+    "imagen": "img/uniformes/chamarra-1a.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Chamarra de Aulas del Ejército",
+    "categoria": "Uniformes",
+    "descripcion": "Chamarra de estilo institucional, ideal para actividades académicas, entrenamiento y uso diario.",
+    "caracteristicas": [
+      "Acabado de alta calidad",
+      "Diseño cómodo",
+      "Uso institucional"
+    ],
+    "imagen": "img/uniformes/chamarra-de-aulas-del-ejercito.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Chompa Polar Azul Modelo Táctico",
+    "categoria": "Uniformes",
+    "descripcion": "Chompa polar táctica que proporciona abrigo y comodidad para climas fríos y actividades al aire libre.",
+    "caracteristicas": [
+      "Tela polar",
+      "Excelente aislamiento térmico",
+      "Uso táctico y outdoor"
+    ],
+    "imagen": "img/uniformes/chompa-polar-azul-modelo-tactico.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Chompa Polar Caqui Modelo Táctico",
+    "categoria": "Uniformes",
+    "descripcion": "Chompa polar en color caqui diseñada para brindar abrigo durante jornadas de entrenamiento y trabajo.",
+    "caracteristicas": [
+      "Tela polar",
+      "Color caqui",
+      "Alta comodidad"
+    ],
+    "imagen": "img/uniformes/chompa-polar-caqui-modelo-tactico.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Chompa Polar Negra Modelo Táctico",
+    "categoria": "Uniformes",
+    "descripcion": "Chompa polar táctica en color negro, ideal para actividades operativas y uso diario en bajas temperaturas.",
+    "caracteristicas": [
+      "Tela polar",
+      "Color negro",
+      "Uso táctico"
+    ],
+    "imagen": "img/uniformes/chompa-polar-negro-modelo-tactico.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Gore-Tex Azul Digital Tela Gabardina",
+    "categoria": "Uniformes",
+    "descripcion": "Prenda táctica con camuflaje azul digital elaborada en tela gabardina para mayor resistencia.",
+    "caracteristicas": [
+      "Camuflaje azul digital",
+      "Tela gabardina",
+      "Uso operativo"
+    ],
+    "imagen": "img/uniformes/gortex-azul-digital-tela-gabardina.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Gore-Tex Azul Digital Tritón",
+    "categoria": "Uniformes",
+    "descripcion": "Prenda táctica con diseño azul digital, adecuada para entrenamiento y actividades operativas.",
+    "caracteristicas": [
+      "Diseño Tritón",
+      "Camuflaje azul digital",
+      "Material resistente"
+    ],
+    "imagen": "img/uniformes/gortex-azul-digital-triton.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Gore-Tex Multicam Tritón",
+    "categoria": "Uniformes",
+    "descripcion": "Prenda táctica con patrón Multicam y confección tipo Tritón para un uso exigente.",
+    "caracteristicas": [
+      "Patrón Multicam",
+      "Diseño Tritón",
+      "Ideal para actividades tácticas"
+    ],
+    "imagen": "img/uniformes/gortex-color-multicam-triton.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Gore-Tex Lobo Marino Tela Gabardina",
+    "categoria": "Uniformes",
+    "descripcion": "Prenda táctica con diseño Lobo Marino confeccionada en tela gabardina de alta resistencia.",
+    "caracteristicas": [
+      "Tela gabardina",
+      "Camuflaje Lobo Marino",
+      "Uso táctico"
+    ],
+    "imagen": "img/uniformes/gortex-lobo-marino-tela-gabardina.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Gore-Tex Multicam Impermeable",
+    "categoria": "Uniformes",
+    "descripcion": "Prenda táctica Multicam confeccionada en material impermeable para protección en diferentes condiciones climáticas.",
+    "caracteristicas": [
+      "Tela impermeable",
+      "Patrón Multicam",
+      "Uso profesional"
+    ],
+    "imagen": "img/uniformes/gortex-multicam-tela-impermeable.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Gore-Tex Multicam Tela Ripstop",
+    "categoria": "Uniformes",
+    "descripcion": "Prenda táctica con patrón Multicam confeccionada en tela Ripstop, diseñada para ofrecer resistencia y comodidad durante actividades operativas y de entrenamiento.",
+    "caracteristicas": [
+      "Tela Ripstop",
+      "Patrón Multicam",
+      "Alta resistencia al desgaste"
+    ],
+    "imagen": "img/uniformes/gortex-multicam-tela-riptop.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Polera Caqui",
+    "categoria": "Uniformes",
+    "descripcion": "Polera táctica en color caqui, cómoda y ligera para entrenamiento, trabajo y uso diario.",
+    "caracteristicas": [
+      "Color caqui",
+      "Tela cómoda",
+      "Uso diario y táctico"
+    ],
+    "imagen": "img/uniformes/polera-caqui.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Polera Táctica Lobo Marino",
+    "categoria": "Uniformes",
+    "descripcion": "Polera táctica con diseño Lobo Marino, ideal para actividades operativas y entrenamiento.",
+    "caracteristicas": [
+      "Diseño táctico",
+      "Camuflaje Lobo Marino",
+      "Excelente comodidad"
+    ],
+    "imagen": "img/uniformes/polera-tactica-color-lobo-marino.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Polera Táctica Multiblack",
+    "categoria": "Uniformes",
+    "descripcion": "Polera táctica con patrón Multiblack, diseñada para brindar comodidad y estilo en cualquier actividad.",
+    "caracteristicas": [
+      "Patrón Multiblack",
+      "Tela resistente",
+      "Uso táctico y urbano"
+    ],
+    "imagen": "img/uniformes/polera-tactica-multiblack.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Polera Táctica Negra",
+    "categoria": "Uniformes",
+    "descripcion": "Polera táctica en color negro, ideal para entrenamiento, trabajo y actividades al aire libre.",
+    "caracteristicas": [
+      "Color negro",
+      "Tela cómoda",
+      "Diseño táctico"
+    ],
+    "imagen": "img/uniformes/polera-tactica-negro.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Sacón Tritón",
+    "categoria": "Uniformes",
+    "descripcion": "Sacón táctico de diseño Tritón que brinda protección y comodidad durante el uso diario y operativo.",
+    "caracteristicas": [
+      "Diseño Tritón",
+      "Excelente abrigo",
+      "Material resistente"
+    ],
+    "imagen": "img/uniformes/sacon-triton.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Uniforme Azul Digital Tela Gabardina",
+    "categoria": "Uniformes",
+    "descripcion": "Uniforme táctico con camuflaje azul digital confeccionado en tela gabardina de alta resistencia.",
+    "caracteristicas": [
+      "Tela gabardina",
+      "Camuflaje azul digital",
+      "Uso profesional"
+    ],
+    "imagen": "img/uniformes/uniforme-azul-digital-tela-gabardina.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Uniforme Azul Digital Tritón",
+    "categoria": "Uniformes",
+    "descripcion": "Uniforme táctico con patrón azul digital y confección tipo Tritón para actividades exigentes.",
+    "caracteristicas": [
+      "Diseño Tritón",
+      "Camuflaje azul digital",
+      "Alta durabilidad"
+    ],
+    "imagen": "img/uniformes/uniforme-azul-digital-triton.jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Uniforme Azul Digital Tru-Spec",
+    "categoria": "Uniformes",
+    "descripcion": "Uniforme táctico estilo Tru-Spec con camuflaje azul digital, pensado para entrenamiento y uso profesional.",
+    "caracteristicas": [
+      "Marca estilo Tru-Spec",
+      "Camuflaje azul digital",
+      "Excelente comodidad"
+    ],
+    "imagen": "img/uniformes/uniforme-azul-digital-tru-spec.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Uniforme Camuflado",
+    "categoria": "Uniformes",
+    "descripcion": "Uniforme táctico camuflado diseñado para actividades operativas, entrenamiento y uso en exteriores.",
+    "caracteristicas": [
+      "Patrón camuflado",
+      "Material resistente",
+      "Uso táctico"
+    ],
+    "imagen": "img/uniformes/uniforme-camuflado.jpg"
+  },
+  {
+    "id": 21,
+    "nombre": "Uniforme Lobo Marino Tela Ripstop",
+    "categoria": "Uniformes",
+    "descripcion": "Uniforme táctico con camuflaje Lobo Marino confeccionado en tela Ripstop, ideal para entrenamiento, operaciones y actividades al aire libre.",
+    "caracteristicas": [
+      "Tela Ripstop antidesgarro",
+      "Camuflaje Lobo Marino",
+      "Alta resistencia y comodidad"
+    ],
+    "imagen": "img/uniformes/uniforme-lobo-marino-tela-riptop.jpg"
+  },
+  {
+    "id": 22,
+    "nombre": "Uniforme Lobo Marino Tritón",
+    "categoria": "Uniformes",
+    "descripcion": "Uniforme táctico con diseño Lobo Marino y confección tipo Tritón, pensado para brindar resistencia y libertad de movimiento.",
+    "caracteristicas": [
+      "Diseño Tritón",
+      "Camuflaje Lobo Marino",
+      "Uso táctico y profesional"
+    ],
+    "imagen": "img/uniformes/uniforme-lobo-marino-triton.jpg"
+  },
+  {
+    "id": 23,
+    "nombre": "Uniforme Multicam Tela Gabardina",
+    "categoria": "Uniformes",
+    "descripcion": "Uniforme táctico con patrón Multicam confeccionado en tela gabardina, ideal para actividades operativas y de entrenamiento.",
+    "caracteristicas": [
+      "Tela gabardina",
+      "Patrón Multicam",
+      "Excelente durabilidad"
+    ],
+    "imagen": "img/uniformes/uniforme-multicam-tela-gabardina.jpg"
+  },
+  {
+    "id": 24,
+    "nombre": "Uniforme Multiblack",
+    "categoria": "Uniformes",
+    "descripcion": "Uniforme táctico con patrón Multiblack que combina funcionalidad, resistencia y una apariencia moderna.",
+    "caracteristicas": [
+      "Patrón Multiblack",
+      "Material resistente",
+      "Ideal para entrenamiento y uso táctico"
+    ],
+    "imagen": "img/uniformes/uniforme-multiblack.jpg"
+  },
+  {
+    "id": 25,
+    "nombre": "Uniforme Multicam Tru-Spec",
+    "categoria": "Uniformes",
+    "descripcion": "Uniforme táctico con patrón Multicam de estilo Tru-Spec, diseñado para ofrecer comodidad y alto rendimiento.",
+    "caracteristicas": [
+      "Diseño estilo Tru-Spec",
+      "Patrón Multicam",
+      "Excelente calidad de confección"
+    ],
+    "imagen": "img/uniformes/uniforme-multicam-marca-tru-spec.jpg"
+  },
+  {
+    "id": 26,
+    "nombre": "Uniforme Multicam Ripstop Segunda de Dotación",
+    "categoria": "Uniformes",
+    "descripcion": "Uniforme táctico Multicam confeccionado en tela Ripstop, ideal como segunda dotación para entrenamiento y servicio.",
+    "caracteristicas": [
+      "Tela Ripstop",
+      "Patrón Multicam",
+      "Segunda dotación"
+    ],
+    "imagen": "img/uniformes/uniforme-multicam-riptop-segunda-de-dotacion.jpg"
+  },
+  {
+    "id": 27,
+    "nombre": "Uniforme Multicam Tela Ripstop",
+    "categoria": "Uniformes",
+    "descripcion": "Uniforme táctico con patrón Multicam confeccionado en tela Ripstop de alta resistencia para uso intensivo.",
+    "caracteristicas": [
+      "Tela Ripstop",
+      "Patrón Multicam",
+      "Alta resistencia al desgaste"
+    ],
+    "imagen": "img/uniformes/uniforme-multicam-tela-riptop.jpg"
+  },
+  {
+    "id": 28,
+    "nombre": "Uniforme Tritón Multicam",
+    "categoria": "Uniformes",
+    "descripcion": "Uniforme táctico Multicam con diseño Tritón, pensado para brindar comodidad y libertad de movimiento durante largas jornadas.",
+    "caracteristicas": [
+      "Diseño Tritón",
+      "Patrón Multicam",
+      "Uso profesional"
+    ],
+    "imagen": "img/uniformes/uniforme-triton-multicam.jpg"
+  },
+  {
+    "id": 29,
+    "nombre": "Uniforme Azul Digital Tela Ripstop",
+    "categoria": "Uniformes",
+    "descripcion": "Uniforme táctico con camuflaje azul digital confeccionado en tela Ripstop, ideal para entrenamiento y operaciones.",
+    "caracteristicas": [
+      "Tela Ripstop antidesgarro",
+      "Camuflaje azul digital",
+      "Alta resistencia"
+    ],
+    "imagen": "img/uniformes/uniforme-azul-digital-tela-riptop.jpg"
+  },
+  {
+    "id": 30,
+    "nombre": "Chaleco Táctico Collote",
+    "categoria": "Chalecos",
+    "descripcion": "Chaleco táctico diseñado para ofrecer comodidad, funcionalidad y una distribución eficiente del equipo durante actividades operativas y de entrenamiento.",
+    "caracteristicas": [
+      "Diseño táctico",
+      "Múltiples puntos de ajuste",
+      "Ideal para entrenamiento y operaciones"
+    ],
+    "imagen": "img/chalecos/chaleco-color-collote.jpg"
+  },
+  {
+    "id": 31,
+    "nombre": "Chaleco Táctico con Bolsa Camelback (Vista Posterior)",
+    "categoria": "Chalecos",
+    "descripcion": "Chaleco táctico equipado con compartimento posterior para bolsa de hidratación, ideal para largas jornadas en exteriores.",
+    "caracteristicas": [
+      "Compatible con sistema de hidratación",
+      "Diseño ergonómico",
+      "Uso táctico y outdoor"
+    ],
+    "imagen": "img/chalecos/chaleco-con-bolsa-de-camelback-atras.jpg"
+  },
+  {
+    "id": 32,
+    "nombre": "Chaleco Táctico con Bolsa Camelback",
+    "categoria": "Chalecos",
+    "descripcion": "Chaleco táctico con espacio para sistema de hidratación, pensado para brindar comodidad y practicidad durante el servicio.",
+    "caracteristicas": [
+      "Compatible con bolsa Camelback",
+      "Ajuste regulable",
+      "Material resistente"
+    ],
+    "imagen": "img/chalecos/chaleco-con-bolsa-de-camelback.jpg"
+  },
+  {
+    "id": 33,
+    "nombre": "Chaleco Táctico Corte Láser Caqui",
+    "categoria": "Chalecos",
+    "descripcion": "Chaleco táctico con sistema de corte láser en color caqui, diseñado para una configuración versátil del equipamiento.",
+    "caracteristicas": [
+      "Sistema Laser Cut",
+      "Color caqui",
+      "Alta resistencia"
+    ],
+    "imagen": "img/chalecos/chaleco-con-trabajo-laser-caqui.jpg"
+  },
+  {
+    "id": 34,
+    "nombre": "Chaleco Táctico Corte Láser",
+    "categoria": "Chalecos",
+    "descripcion": "Chaleco táctico con tecnología Laser Cut que proporciona una apariencia moderna y una excelente distribución de accesorios.",
+    "caracteristicas": [
+      "Sistema Laser Cut",
+      "Diseño moderno",
+      "Uso táctico profesional"
+    ],
+    "imagen": "img/chalecos/chaleco-con-trabajo-laser.jpg"
+  },
+  {
+    "id": 35,
+    "nombre": "Chaleco de Red Negro",
+    "categoria": "Chalecos",
+    "descripcion": "Chaleco de malla ligera que proporciona comodidad y ventilación para actividades prolongadas.",
+    "caracteristicas": [
+      "Diseño ligero",
+      "Excelente ventilación",
+      "Color negro"
+    ],
+    "imagen": "img/chalecos/chaleco-red-negro.jpg"
+  },
+  {
+    "id": 36,
+    "nombre": "Chaleco Táctico Reversible Corte Láser",
+    "categoria": "Chalecos",
+    "descripcion": "Chaleco táctico reversible con sistema de corte láser, ideal para quienes buscan versatilidad y funcionalidad.",
+    "caracteristicas": [
+      "Diseño reversible",
+      "Sistema Laser Cut",
+      "Material resistente"
+    ],
+    "imagen": "img/chalecos/chaleco-reverso-con-trabajo-laser.jpg"
+  },
+  {
+    "id": 37,
+    "nombre": "Chaleco SIRA",
+    "categoria": "Chalecos",
+    "descripcion": "Chaleco táctico tipo SIRA diseñado para portar equipamiento de manera cómoda y organizada.",
+    "caracteristicas": [
+      "Diseño táctico",
+      "Ajuste regulable",
+      "Ideal para uso operativo"
+    ],
+    "imagen": "img/chalecos/chaleco-sira.jpg"
+  },
+  {
+    "id": 38,
+    "nombre": "Chaleco Cordura Cóndor",
+    "categoria": "Chalecos",
+    "descripcion": "Chaleco táctico confeccionado en tela Cordura, reconocido por su resistencia y durabilidad para uso intensivo.",
+    "caracteristicas": [
+      "Tela Cordura",
+      "Alta resistencia",
+      "Uso profesional"
+    ],
+    "imagen": "img/chalecos/chaleco-tela-cordura-condor.jpg"
+  },
+  {
+    "id": 39,
+    "nombre": "Chaleco Táctico Tela Cordura",
+    "categoria": "Chalecos",
+    "descripcion": "Chaleco táctico fabricado en tela Cordura, ideal para entrenamiento, trabajo y actividades al aire libre.",
+    "caracteristicas": [
+      "Tela Cordura",
+      "Diseño ergonómico",
+      "Excelente durabilidad"
+    ],
+    "imagen": "img/chalecos/chaleco-tela-cordura.jpg"
+  },
+  {
+    "id": 40,
+    "nombre": "Botas Altama Imitación",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas de estilo Altama, ideales para entrenamiento, trabajo y actividades al aire libre.",
+    "caracteristicas": [
+      "Diseño tipo Altama",
+      "Suela de alta resistencia",
+      "Uso táctico y outdoor"
+    ],
+    "imagen": "img/calzados/botas-altama-imitacion.jpg"
+  },
+  {
+    "id": 41,
+    "nombre": "Botas Altama de Lona Verde",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas confeccionadas en lona verde, cómodas y ligeras para uso diario y entrenamiento.",
+    "caracteristicas": [
+      "Lona resistente",
+      "Color verde",
+      "Excelente comodidad"
+    ],
+    "imagen": "img/calzados/botas-altama-lona-verde.jpg"
+  },
+  {
+    "id": 42,
+    "nombre": "Botas Altama Planta Táctica Caqui",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas color caqui con planta de alto agarre para diferentes tipos de terreno.",
+    "caracteristicas": [
+      "Color caqui",
+      "Suela táctica",
+      "Alta estabilidad"
+    ],
+    "imagen": "img/calzados/botas-altama-planta-tactica-caqui.jpg"
+  },
+  {
+    "id": 43,
+    "nombre": "Botas Altama Planta Táctica Negro",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas negras diseñadas para brindar seguridad, comodidad y resistencia durante largas jornadas.",
+    "caracteristicas": [
+      "Color negro",
+      "Suela táctica",
+      "Material resistente"
+    ],
+    "imagen": "img/calzados/botas-altama-planta-tactica-negro.jpg"
+  },
+  {
+    "id": 44,
+    "nombre": "Botas Army 2.11 Collote",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas de estilo Army 2.11 en color collote, ideales para entrenamiento y uso operativo.",
+    "caracteristicas": [
+      "Diseño Army 2.11",
+      "Excelente soporte",
+      "Uso profesional"
+    ],
+    "imagen": "img/calzados/botas-army-2.11-collote.jpg"
+  },
+  {
+    "id": 45,
+    "nombre": "Botas Army 2.11 Negro",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas negras con diseño Army 2.11 para actividades operativas y uso diario.",
+    "caracteristicas": [
+      "Color negro",
+      "Suela antideslizante",
+      "Alta resistencia"
+    ],
+    "imagen": "img/calzados/botas-army-2.11-negro.jpg"
+  },
+  {
+    "id": 46,
+    "nombre": "Botas Caqui Modelo 1",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas color caqui con diseño cómodo y resistente para diferentes actividades.",
+    "caracteristicas": [
+      "Color caqui",
+      "Excelente comodidad",
+      "Uso táctico"
+    ],
+    "imagen": "img/calzados/botas-caqui-1.jpg"
+  },
+  {
+    "id": 47,
+    "nombre": "Botas Caqui Modelo 2",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas color caqui diseñadas para brindar estabilidad y confort durante largas jornadas.",
+    "caracteristicas": [
+      "Color caqui",
+      "Diseño ergonómico",
+      "Material resistente"
+    ],
+    "imagen": "img/calzados/botas-caqui-2.jpg"
+  },
+  {
+    "id": 48,
+    "nombre": "Botas Combat",
+    "categoria": "Calzados",
+    "descripcion": "Botas tipo Combat ideales para entrenamiento, operaciones y actividades al aire libre.",
+    "caracteristicas": [
+      "Diseño Combat",
+      "Suela resistente",
+      "Uso táctico"
+    ],
+    "imagen": "img/calzados/botas-combat.jpg"
+  },
+  {
+    "id": 49,
+    "nombre": "Botas de Cuero Entero Caqui",
+    "categoria": "Calzados",
+    "descripcion": "Botas confeccionadas en cuero entero color caqui, diseñadas para ofrecer durabilidad y comodidad.",
+    "caracteristicas": [
+      "Cuero entero",
+      "Color caqui",
+      "Alta resistencia"
+    ],
+    "imagen": "img/calzados/botas-cuero-entero-caqui.jpg"
+  },
+  {
+    "id": 50,
+    "nombre": "Botas de Cuero Entero Negro",
+    "categoria": "Calzados",
+    "descripcion": "Botas elaboradas en cuero entero color negro, ideales para uso táctico, institucional y actividades diarias.",
+    "caracteristicas": [
+      "Cuero entero",
+      "Color negro",
+      "Excelente durabilidad"
+    ],
+    "imagen": "img/calzados/botas-cuero-entero-negro.jpg"
+  },
+  {
+    "id": 51,
+    "nombre": "Botas Ranger Caqui Modelo 1",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas Ranger color caqui diseñadas para ofrecer estabilidad y comodidad en cualquier terreno.",
+    "caracteristicas": [
+      "Diseño Ranger",
+      "Color caqui",
+      "Suela de alto agarre"
+    ],
+    "imagen": "img/calzados/botas-ranger-caqui-1.jpg"
+  },
+  {
+    "id": 52,
+    "nombre": "Botas Ranger Caqui Modelo 2",
+    "categoria": "Calzados",
+    "descripcion": "Botas Ranger de estilo táctico con excelente resistencia para entrenamiento y actividades al aire libre.",
+    "caracteristicas": [
+      "Diseño Ranger",
+      "Color caqui",
+      "Material resistente"
+    ],
+    "imagen": "img/calzados/botas-ranger-caqui-2.jpg"
+  },
+  {
+    "id": 53,
+    "nombre": "Botas Ranger Combat Negro",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas negras tipo Combat que combinan comodidad, resistencia y excelente tracción.",
+    "caracteristicas": [
+      "Color negro",
+      "Diseño Combat",
+      "Suela antideslizante"
+    ],
+    "imagen": "img/calzados/botas-ranger-combat-negro.jpg"
+  },
+  {
+    "id": 54,
+    "nombre": "Botas Ranger Imitación Caqui",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas estilo Ranger en color caqui, ideales para entrenamiento y actividades outdoor.",
+    "caracteristicas": [
+      "Diseño Ranger",
+      "Color caqui",
+      "Excelente comodidad"
+    ],
+    "imagen": "img/calzados/botas-ranger-imitacion-caqui.jpg"
+  },
+  {
+    "id": 55,
+    "nombre": "Botas Ranger Imitación Negro",
+    "categoria": "Calzados",
+    "descripcion": "Botas estilo Ranger en color negro con diseño cómodo y resistente para uso diario y táctico.",
+    "caracteristicas": [
+      "Diseño Ranger",
+      "Color negro",
+      "Material resistente"
+    ],
+    "imagen": "img/calzados/botas-ranger-imitacion-negro.jpg"
+  },
+  {
+    "id": 56,
+    "nombre": "Botas Welcome Collote",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas color collote diseñadas para brindar seguridad, estabilidad y confort durante largas jornadas.",
+    "caracteristicas": [
+      "Color collote",
+      "Excelente soporte",
+      "Uso táctico"
+    ],
+    "imagen": "img/calzados/botas-welcome-collote.jpg"
+  },
+  {
+    "id": 57,
+    "nombre": "Botas Welcome Negro",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas negras de diseño moderno, ideales para entrenamiento, trabajo y uso profesional.",
+    "caracteristicas": [
+      "Color negro",
+      "Suela resistente",
+      "Diseño ergonómico"
+    ],
+    "imagen": "img/calzados/botas-welcome-negro.jpg"
+  },
+  {
+    "id": 58,
+    "nombre": "Botín de Cuero",
+    "categoria": "Calzados",
+    "descripcion": "Botín confeccionado en cuero de excelente calidad, ideal para uso institucional y diario.",
+    "caracteristicas": [
+      "Cuero resistente",
+      "Diseño clásico",
+      "Alta durabilidad"
+    ],
+    "imagen": "img/calzados/botin-de-cuero.jpg"
+  },
+  {
+    "id": 59,
+    "nombre": "Botines Semicharolados",
+    "categoria": "Calzados",
+    "descripcion": "Botines semicharolados con acabado elegante, ideales para uniformes institucionales y ceremoniales.",
+    "caracteristicas": [
+      "Acabado semicharolado",
+      "Diseño elegante",
+      "Uso institucional"
+    ],
+    "imagen": "img/calzados/botines-semicharolada.jpg"
+  },
+  {
+    "id": 60,
+    "nombre": "Zapatos Charolados",
+    "categoria": "Calzados",
+    "descripcion": "Zapatos charolados de presentación, ideales para ceremonias, actos oficiales y uso institucional.",
+    "caracteristicas": [
+      "Acabado charolado",
+      "Diseño formal",
+      "Excelente presentación"
+    ],
+    "imagen": "img/calzados/zapatos-charoladas.jpg"
+  },
+  {
+    "id": 61,
+    "nombre": "Aislante Térmico",
+    "categoria": "Accesorios",
+    "descripcion": "Aislante térmico ligero diseñado para brindar comodidad y protección durante actividades al aire libre.",
+    "caracteristicas": [
+      "Material aislante",
+      "Ligero y compacto",
+      "Ideal para camping y supervivencia"
+    ],
+    "imagen": "img/accesorios/aislante-termico.jpg"
+  },
+  {
+    "id": 62,
+    "nombre": "Antiparras para Casco Caqui",
+    "categoria": "Accesorios",
+    "descripcion": "Antiparras tácticas compatibles con cascos tipo FAST para protección visual en diferentes entornos.",
+    "caracteristicas": [
+      "Compatible con casco FAST",
+      "Protección ocular",
+      "Color caqui"
+    ],
+    "imagen": "img/accesorios/antiparras-para-casco-caqui.jpg"
+  },
+  {
+    "id": 63,
+    "nombre": "Barras de Camuflaje",
+    "categoria": "Accesorios",
+    "descripcion": "Pinturas de camuflaje para rostro y equipo, ideales para actividades tácticas y outdoor.",
+    "caracteristicas": [
+      "Fácil aplicación",
+      "Colores de camuflaje",
+      "Uso táctico"
+    ],
+    "imagen": "img/accesorios/barras-de-camuflaje.jpg"
+  },
+  {
+    "id": 64,
+    "nombre": "Bastón Policial",
+    "categoria": "Accesorios",
+    "descripcion": "Bastón de uso policial diseñado para entrenamiento y funciones de seguridad.",
+    "caracteristicas": [
+      "Material resistente",
+      "Diseño ergonómico",
+      "Uso profesional"
+    ],
+    "imagen": "img/accesorios/baston-policia.jpg"
+  },
+  {
+    "id": 65,
+    "nombre": "Bolsa de Hidratación 3 Litros",
+    "categoria": "Accesorios",
+    "descripcion": "Bolsa de hidratación con capacidad de 3 litros para mantener una hidratación constante durante largas jornadas.",
+    "caracteristicas": [
+      "Capacidad de 3 L",
+      "Compatible con mochilas tácticas",
+      "Fácil recarga"
+    ],
+    "imagen": "img/accesorios/bolsa-de-hitratacion-3l.jpg"
+  },
+  {
+    "id": 66,
+    "nombre": "Botaligas",
+    "categoria": "Accesorios",
+    "descripcion": "Accesorio diseñado para mantener el pantalón correctamente ajustado dentro de las botas.",
+    "caracteristicas": [
+      "Ajuste elástico",
+      "Fácil colocación",
+      "Uso militar"
+    ],
+    "imagen": "img/accesorios/botaligas.jpg"
+  },
+  {
+    "id": 67,
+    "nombre": "Camelback con Bolsa de Hidratación",
+    "categoria": "Accesorios",
+    "descripcion": "Sistema de hidratación Camelback diseñado para brindar comodidad durante actividades tácticas y deportivas.",
+    "caracteristicas": [
+      "Sistema de hidratación",
+      "Diseño ergonómico",
+      "Ideal para largas jornadas"
+    ],
+    "imagen": "img/accesorios/camelback-con-sus-bolsas-de-hidratación.jpg"
+  },
+  {
+    "id": 68,
+    "nombre": "Canilleras",
+    "categoria": "Accesorios",
+    "descripcion": "Canilleras de protección para entrenamiento y actividades tácticas.",
+    "caracteristicas": [
+      "Protección adicional",
+      "Ajuste cómodo",
+      "Material resistente"
+    ],
+    "imagen": "img/accesorios/canilleras.jpg"
+  },
+  {
+    "id": 69,
+    "nombre": "Casco FAST con Funda",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Casco táctico tipo FAST con funda protectora, diseñado para entrenamiento y uso profesional.",
+    "caracteristicas": [
+      "Incluye funda",
+      "Diseño FAST",
+      "Alta resistencia"
+    ],
+    "imagen": "img/cabeza/casco-fast-con-funda.jpg"
+  },
+  {
+    "id": 70,
+    "nombre": "Casco FAST Primera",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Casco táctico tipo FAST con diseño ligero y cómodo para actividades operativas.",
+    "caracteristicas": [
+      "Diseño ligero",
+      "Sistema de ajuste",
+      "Uso táctico"
+    ],
+    "imagen": "img/cabeza/casco-fast-primera.jpg"
+  },
+  {
+    "id": 71,
+    "nombre": "Casco FAST",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Casco táctico tipo FAST para entrenamiento, airsoft y actividades operativas.",
+    "caracteristicas": [
+      "Diseño moderno",
+      "Compatible con accesorios",
+      "Excelente ajuste"
+    ],
+    "imagen": "img/cabeza/casco-fast.jpg"
+  },
+  {
+    "id": 72,
+    "nombre": "Casco Kevlar con Funda",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Casco tipo Kevlar con funda protectora para entrenamiento y uso táctico.",
+    "caracteristicas": [
+      "Incluye funda",
+      "Diseño táctico",
+      "Alta resistencia"
+    ],
+    "imagen": "img/cabeza/casco-keblack-con-funda.jpg"
+  },
+  {
+    "id": 73,
+    "nombre": "Catre de Campaña",
+    "categoria": "Accesorios",
+    "descripcion": "Catre plegable ideal para campamentos, operaciones y actividades al aire libre.",
+    "caracteristicas": [
+      "Estructura resistente",
+      "Fácil transporte",
+      "Diseño plegable"
+    ],
+    "imagen": "img/accesorios/catre-de-campaña.jpg"
+  },
+  {
+    "id": 74,
+    "nombre": "Cinturón Táctico",
+    "categoria": "Accesorios",
+    "descripcion": "Cinturón táctico diseñado para portar equipamiento de forma segura y cómoda.",
+    "caracteristicas": [
+      "Alta resistencia",
+      "Ajuste regulable",
+      "Uso táctico"
+    ],
+    "imagen": "img/accesorios/cinturones-tacticos.jpg"
+  },
+  {
+    "id": 75,
+    "nombre": "Cotín Azul",
+    "categoria": "Accesorios",
+    "descripcion": "Cotín de uso institucional confeccionado para brindar comodidad y protección durante la jornada.",
+    "caracteristicas": [
+      "Diseño cómodo",
+      "Color azul",
+      "Uso institucional"
+    ],
+    "imagen": "img/accesorios/cotin-azul.jpg"
+  },
+  {
+    "id": 76,
+    "nombre": "Gorra Táctica Collote",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Gorra táctica color collote diseñada para brindar protección solar y comodidad durante actividades al aire libre.",
+    "caracteristicas": [
+      "Color collote",
+      "Diseño táctico",
+      "Ajuste regulable"
+    ],
+    "imagen": "img/cabeza/gorra-tactica-collote.jpg"
+  },
+  {
+    "id": 77,
+    "nombre": "Gorra Táctica Multiblack",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Gorra táctica con patrón Multiblack, ideal para entrenamiento, trabajo y uso diario.",
+    "caracteristicas": [
+      "Patrón Multiblack",
+      "Diseño táctico",
+      "Material resistente"
+    ],
+    "imagen": "img/cabeza/gorra-tactica-multiblack.jpg"
+  },
+  {
+    "id": 78,
+    "nombre": "Gorra Táctica Multicam",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Gorra táctica con camuflaje Multicam para actividades tácticas y outdoor.",
+    "caracteristicas": [
+      "Patrón Multicam",
+      "Ligera y cómoda",
+      "Uso táctico"
+    ],
+    "imagen": "img/cabeza/gorra-tactica-multicam.jpg"
+  },
+  {
+    "id": 79,
+    "nombre": "Gorra Táctica Negra",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Gorra táctica color negro de diseño cómodo y resistente para uso diario.",
+    "caracteristicas": [
+      "Color negro",
+      "Diseño táctico",
+      "Ajuste regulable"
+    ],
+    "imagen": "img/cabeza/gorra-tactica-negro.jpg"
+  },
+  {
+    "id": 80,
+    "nombre": "Gorra Táctica Verde",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Gorra táctica color verde diseñada para entrenamiento y actividades al aire libre.",
+    "caracteristicas": [
+      "Color verde",
+      "Material resistente",
+      "Excelente comodidad"
+    ],
+    "imagen": "img/cabeza/gorra-tactica-verde.jpg"
+  },
+  {
+    "id": 81,
+    "nombre": "Gorras Tácticas",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Colección de gorras tácticas disponibles en diferentes colores y diseños.",
+    "caracteristicas": [
+      "Varios modelos",
+      "Diseño táctico",
+      "Excelente ajuste"
+    ],
+    "imagen": "img/cabeza/gorras-tacticas.jpg"
+  },
+  {
+    "id": 82,
+    "nombre": "Guantes de Lana Caqui",
+    "categoria": "Accesorios",
+    "descripcion": "Guantes de lana color caqui ideales para climas fríos y actividades al aire libre.",
+    "caracteristicas": [
+      "Lana térmica",
+      "Color caqui",
+      "Excelente comodidad"
+    ],
+    "imagen": "img/accesorios/guantes-de-lana-caqui.jpg"
+  },
+  {
+    "id": 83,
+    "nombre": "Guantes Tácticos Verdes",
+    "categoria": "Accesorios",
+    "descripcion": "Guantes tácticos diseñados para brindar protección, agarre y comodidad durante el servicio.",
+    "caracteristicas": [
+      "Color verde",
+      "Buen agarre",
+      "Uso táctico"
+    ],
+    "imagen": "img/accesorios/guantes-tactico-verde.jpg"
+  },
+  {
+    "id": 84,
+    "nombre": "Guantes Tácticos con Nudillos",
+    "categoria": "Accesorios",
+    "descripcion": "Guantes tácticos con protección en los nudillos para entrenamiento y actividades operativas.",
+    "caracteristicas": [
+      "Protección de nudillos",
+      "Color negro",
+      "Excelente agarre"
+    ],
+    "imagen": "img/accesorios/guantes-tacticos-nudillos-negros.jpg"
+  },
+  {
+    "id": 85,
+    "nombre": "Guantes Tácticos (Modelos Variados)",
+    "categoria": "Accesorios",
+    "descripcion": "Variedad de guantes tácticos disponibles en diferentes colores y diseños.",
+    "caracteristicas": [
+      "Diversos modelos",
+      "Uso táctico",
+      "Material resistente"
+    ],
+    "imagen": "img/accesorios/guantes-tacticos-varios.jpg"
+  },
+  {
+    "id": 86,
+    "nombre": "Guantes Tácticos",
+    "categoria": "Accesorios",
+    "descripcion": "Guantes tácticos para entrenamiento, trabajo y actividades al aire libre.",
+    "caracteristicas": [
+      "Buen agarre",
+      "Diseño ergonómico",
+      "Alta resistencia"
+    ],
+    "imagen": "img/accesorios/guantes-tacticos.jpg"
+  },
+  {
+    "id": 87,
+    "nombre": "Jockey FELCC",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Jockey institucional inspirado en el diseño utilizado por la FELCC.",
+    "caracteristicas": [
+      "Diseño institucional",
+      "Ajuste regulable",
+      "Material resistente"
+    ],
+    "imagen": "img/cabeza/jokey-de-felcc.jpg"
+  },
+  {
+    "id": 88,
+    "nombre": "Jockey Policía",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Jockey de estilo institucional utilizado para uniformes y actividades oficiales.",
+    "caracteristicas": [
+      "Diseño policial",
+      "Excelente acabado",
+      "Uso institucional"
+    ],
+    "imagen": "img/cabeza/jokey-de-la-policia.jpg"
+  },
+  {
+    "id": 89,
+    "nombre": "Jockey Policía Clásico",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Jockey institucional de diseño clásico para uso diario y presentación.",
+    "caracteristicas": [
+      "Diseño clásico",
+      "Color institucional",
+      "Material resistente"
+    ],
+    "imagen": "img/cabeza/jokey-policia.jpg"
+  },
+  {
+    "id": 90,
+    "nombre": "Kepí Lobo Marino",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Kepí con diseño Lobo Marino confeccionado para complementar uniformes y vestimenta institucional.",
+    "caracteristicas": [
+      "Diseño Lobo Marino",
+      "Excelente presentación",
+      "Uso institucional"
+    ],
+    "imagen": "img/cabeza/kepi-lobo-marino.jpg"
+  },
+  {
+    "id": 91,
+    "nombre": "Kepí Multicam",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Kepí con patrón Multicam diseñado para complementar uniformes tácticos y actividades al aire libre.",
+    "caracteristicas": [
+      "Patrón Multicam",
+      "Diseño cómodo",
+      "Uso táctico"
+    ],
+    "imagen": "img/cabeza/kepi-multicam.jpg"
+  },
+  {
+    "id": 92,
+    "nombre": "Lentes Okley",
+    "categoria": "Accesorios",
+    "descripcion": "Lentes tácticos de diseño deportivo que brindan protección visual y comodidad durante el uso.",
+    "caracteristicas": [
+      "Protección ocular",
+      "Diseño deportivo",
+      "Uso táctico"
+    ],
+    "imagen": "img/accesorios/lentes-okley.jpg"
+  },
+  {
+    "id": 93,
+    "nombre": "Lentes SWAT Polarizados",
+    "categoria": "Accesorios",
+    "descripcion": "Lentes polarizados diseñados para reducir reflejos y mejorar la visión en exteriores.",
+    "caracteristicas": [
+      "Lentes polarizados",
+      "Protección UV",
+      "Diseño táctico"
+    ],
+    "imagen": "img/accesorios/lentes-swat-polarizados.jpg"
+  },
+  {
+    "id": 94,
+    "nombre": "Linterna para Casco Recargable",
+    "categoria": "Accesorios",
+    "descripcion": "Linterna LED compatible con cascos tácticos, equipada con batería recargable.",
+    "caracteristicas": [
+      "Batería recargable",
+      "Compatible con casco",
+      "Iluminación LED"
+    ],
+    "imagen": "img/accesorios/linterna-para-casco-con-pila-recargable.jpg"
+  },
+  {
+    "id": 95,
+    "nombre": "Llavero Casco Caqui",
+    "categoria": "Accesorios",
+    "descripcion": "Llavero decorativo con diseño de casco táctico en color caqui.",
+    "caracteristicas": [
+      "Diseño de casco",
+      "Color caqui",
+      "Compacto y resistente"
+    ],
+    "imagen": "img/accesorios/llavero-casco-caqui.jpg"
+  },
+  {
+    "id": 96,
+    "nombre": "Llavero Casco Negro",
+    "categoria": "Accesorios",
+    "descripcion": "Llavero decorativo con diseño de casco táctico en color negro.",
+    "caracteristicas": [
+      "Diseño de casco",
+      "Color negro",
+      "Compacto y resistente"
+    ],
+    "imagen": "img/accesorios/llavero-casco-negro.jpg"
+  },
+  {
+    "id": 97,
+    "nombre": "Manta Térmica",
+    "categoria": "Accesorios",
+    "descripcion": "Manta térmica de emergencia diseñada para conservar el calor corporal en situaciones de supervivencia.",
+    "caracteristicas": [
+      "Material reflectante",
+      "Ligera",
+      "Ideal para emergencias"
+    ],
+    "imagen": "img/accesorios/manta-termica.jpg"
+  },
+  {
+    "id": 98,
+    "nombre": "Marbetes Armada",
+    "categoria": "Accesorios",
+    "descripcion": "Marbetes confeccionados para uniformes institucionales de la Armada.",
+    "caracteristicas": [
+      "Excelente acabado",
+      "Uso institucional",
+      "Material resistente"
+    ],
+    "imagen": "img/accesorios/marbetes-armada.jpg"
+  },
+  {
+    "id": 99,
+    "nombre": "Marbetes Ejército",
+    "categoria": "Accesorios",
+    "descripcion": "Marbetes para uniformes militares con excelente calidad y presentación.",
+    "caracteristicas": [
+      "Diseño militar",
+      "Uso institucional",
+      "Alta durabilidad"
+    ],
+    "imagen": "img/accesorios/marbetes-ejercito.jpg"
+  },
+  {
+    "id": 100,
+    "nombre": "Medias Bala Cross",
+    "categoria": "Accesorios",
+    "descripcion": "Medias de algodón diseñadas para brindar comodidad durante largas jornadas de trabajo o entrenamiento.",
+    "caracteristicas": [
+      "Algodón",
+      "Cómodas",
+      "Uso diario"
+    ],
+    "imagen": "img/accesorios/medias-de-algodon-bala-cross.jpg"
+  },
+  {
+    "id": 101,
+    "nombre": "Herramienta Multiuso con Alicate",
+    "categoria": "Accesorios",
+    "descripcion": "Herramienta multifuncional equipada con alicate y diversas funciones para actividades tácticas y de camping.",
+    "caracteristicas": [
+      "Incluye alicate",
+      "Multifunción",
+      "Compacta"
+    ],
+    "imagen": "img/accesorios/multiuso-con-alicate.jpg"
+  },
+  {
+    "id": 102,
+    "nombre": "Herramienta Multiuso",
+    "categoria": "Accesorios",
+    "descripcion": "Herramienta compacta con múltiples funciones para actividades al aire libre y uso diario.",
+    "caracteristicas": [
+      "Diseño compacto",
+      "Multifunción",
+      "Fácil transporte"
+    ],
+    "imagen": "img/accesorios/multiusos.jpg"
+  },
+  {
+    "id": 103,
+    "nombre": "Navaja 16 cm",
+    "categoria": "Accesorios",
+    "descripcion": "Navaja plegable de 16 cm diseñada para actividades de camping, supervivencia y uso general.",
+    "caracteristicas": [
+      "Hoja plegable",
+      "16 cm",
+      "Fácil transporte"
+    ],
+    "imagen": "img/accesorios/navaja-16cm.jpg"
+  },
+  {
+    "id": 104,
+    "nombre": "Navaja 24 cm",
+    "categoria": "Accesorios",
+    "descripcion": "Navaja plegable de 24 cm ideal para actividades al aire libre y supervivencia.",
+    "caracteristicas": [
+      "Hoja plegable",
+      "24 cm",
+      "Alta resistencia"
+    ],
+    "imagen": "img/accesorios/navaja-24cm.jpg"
+  },
+  {
+    "id": 105,
+    "nombre": "Orejeras de Protección Auditiva",
+    "categoria": "Accesorios",
+    "descripcion": "Orejeras diseñadas para reducir el ruido y proteger la audición durante actividades de alto impacto sonoro.",
+    "caracteristicas": [
+      "Protección auditiva",
+      "Ajuste cómodo",
+      "Uso profesional"
+    ],
+    "imagen": "img/accesorios/orejeras-de-proteccion-auditiva.jpg"
+  },
+  {
+    "id": 106,
+    "nombre": "Porta Fusil Táctico",
+    "categoria": "Accesorios",
+    "descripcion": "Porta fusil táctico diseñado para brindar comodidad y seguridad durante el transporte del arma.",
+    "caracteristicas": [
+      "Ajuste regulable",
+      "Material resistente",
+      "Uso táctico"
+    ],
+    "imagen": "img/accesorios/porta-fusil-tactico.jpg"
+  },
+  {
+    "id": 107,
+    "nombre": "Porta Linterna para Casco FAST",
+    "categoria": "Accesorios",
+    "descripcion": "Soporte de policarbonato para instalar una linterna en cascos tipo FAST.",
+    "caracteristicas": [
+      "Compatible con casco FAST",
+      "Fabricado en policarbonato",
+      "Fácil instalación"
+    ],
+    "imagen": "img/accesorios/porta-linterna-de-policarbonato-para-casco-fast.jpg"
+  },
+  {
+    "id": 108,
+    "nombre": "Portacargador de Policarbonato",
+    "categoria": "Accesorios",
+    "descripcion": "Portacargador fabricado en policarbonato de alta resistencia para un acceso rápido al cargador.",
+    "caracteristicas": [
+      "Policarbonato resistente",
+      "Color negro",
+      "Sistema de sujeción seguro"
+    ],
+    "imagen": "img/accesorios/portacargador-de-policarbonato-negro.jpg"
+  },
+  {
+    "id": 109,
+    "nombre": "Portafusil Táctico de Una Punta",
+    "categoria": "Accesorios",
+    "descripcion": "Correa portafusil de una punta que proporciona movilidad y comodidad durante el uso.",
+    "caracteristicas": [
+      "Una punta",
+      "Longitud ajustable",
+      "Uso táctico"
+    ],
+    "imagen": "img/accesorios/portafusil-tactico-de-una-sola-punta.jpg"
+  },
+  {
+    "id": 110,
+    "nombre": "Portafusil Táctico de Dos Puntas",
+    "categoria": "Accesorios",
+    "descripcion": "Correa portafusil de dos puntas que ofrece mayor estabilidad y distribución del peso.",
+    "caracteristicas": [
+      "Dos puntos de anclaje",
+      "Alta resistencia",
+      "Ajuste regulable"
+    ],
+    "imagen": "img/accesorios/portafusil-tacticos-de-dos-puntas.jpg"
+  },
+  {
+    "id": 111,
+    "nombre": "Recuperador de Pistola",
+    "categoria": "Accesorios",
+    "descripcion": "Accesorio diseñado para mantener asegurada la pistola durante operaciones y entrenamientos.",
+    "caracteristicas": [
+      "Cable retráctil",
+      "Mayor seguridad",
+      "Uso profesional"
+    ],
+    "imagen": "img/accesorios/recuperador-de-pistola.jpg"
+  },
+  {
+    "id": 112,
+    "nombre": "Rodilleras y Coderas de Plástico",
+    "categoria": "Accesorios",
+    "descripcion": "Juego de rodilleras y coderas con protección rígida para entrenamiento y actividades tácticas.",
+    "caracteristicas": [
+      "Protección rígida",
+      "Ajuste mediante correas",
+      "Alta resistencia"
+    ],
+    "imagen": "img/accesorios/rodilleras-coderas-en-plastico.jpg"
+  },
+  {
+    "id": 113,
+    "nombre": "Rodilleras y Coderas",
+    "categoria": "Accesorios",
+    "descripcion": "Juego de protección para rodillas y codos que proporciona comodidad y seguridad durante el servicio.",
+    "caracteristicas": [
+      "Diseño ergonómico",
+      "Ajuste cómodo",
+      "Uso táctico"
+    ],
+    "imagen": "img/accesorios/rodilleras-coderas.jpg"
+  },
+  {
+    "id": 114,
+    "nombre": "Rodilleras y Coderas Engomadas",
+    "categoria": "Accesorios",
+    "descripcion": "Juego de rodilleras y coderas con acabado engomado que mejora la protección y el agarre.",
+    "caracteristicas": [
+      "Acabado engomado",
+      "Mayor resistencia",
+      "Ideal para entrenamiento"
+    ],
+    "imagen": "img/accesorios/rodilleras-y-coderas-engomado.jpg"
+  },
+  {
+    "id": 115,
+    "nombre": "Shemagh",
+    "categoria": "Accesorios",
+    "descripcion": "Pañuelo táctico multifuncional utilizado para protección contra el sol, viento, polvo y bajas temperaturas.",
+    "caracteristicas": [
+      "Tela transpirable",
+      "Uso multifuncional",
+      "Ideal para actividades outdoor"
+    ],
+    "imagen": "img/accesorios/shemagh.jpg"
+  },
+  {
+    "id": 116,
+    "nombre": "Botas Cordura Caqui",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas fabricadas con tela Cordura en color caqui, ideales para entrenamiento, patrullaje y actividades al aire libre.",
+    "caracteristicas": [
+      "Tela Cordura",
+      "Color caqui",
+      "Suela antideslizante"
+    ],
+    "imagen": "img/calzados/botas-cordura-caqui.jpg"
+  },
+  {
+    "id": 117,
+    "nombre": "Botas Tácticas",
+    "categoria": "Calzados",
+    "descripcion": "Botas tácticas resistentes diseñadas para brindar comodidad, estabilidad y durabilidad durante largas jornadas.",
+    "caracteristicas": [
+      "Diseño táctico",
+      "Alta resistencia",
+      "Excelente comodidad"
+    ],
+    "imagen": "img/calzados/botas-tacticas.jpg"
+  },
+  {
+    "id": 118,
+    "nombre": "Botas Ranger Original",
+    "categoria": "Calzados",
+    "descripcion": "Botas Ranger originales confeccionadas para uso profesional y actividades de alto rendimiento.",
+    "caracteristicas": [
+      "Modelo original",
+      "Material resistente",
+      "Excelente tracción"
+    ],
+    "imagen": "img/calzados/botas-ranger-original.jpg"
+  },
+  {
+    "id": 119,
+    "nombre": "Casco FAST Tercera Generación",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Casco táctico tipo FAST de tercera generación diseñado para protección y compatibilidad con accesorios.",
+    "caracteristicas": [
+      "Diseño FAST",
+      "Compatible con accesorios",
+      "Alta resistencia"
+    ],
+    "imagen": "img/cabeza/casco-fast-tercera.jpg"
+  },
+  {
+    "id": 120,
+    "nombre": "Casco FAST Segunda Generación Negro",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Casco táctico FAST de segunda generación en color negro para entrenamiento y actividades operativas.",
+    "caracteristicas": [
+      "Color negro",
+      "Sistema de ajuste",
+      "Diseño ergonómico"
+    ],
+    "imagen": "img/cabeza/casco-fast-segunda-negro.jpg"
+  },
+  {
+    "id": 121,
+    "nombre": "Casco FAST Segunda Generación Caqui",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Casco táctico FAST de segunda generación en color caqui, compatible con diversos accesorios tácticos.",
+    "caracteristicas": [
+      "Color caqui",
+      "Alta resistencia",
+      "Uso táctico"
+    ],
+    "imagen": "img/cabeza/casco-fast-segunda-caqui.jpg"
+  },
+  {
+    "id": 122,
+    "nombre": "Mochila Minimasut",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila táctica diseñada para transportar equipo con comodidad durante actividades operativas y de camping.",
+    "caracteristicas": [
+      "Gran capacidad",
+      "Material resistente",
+      "Correas ajustables"
+    ],
+    "imagen": "img/mochilas/minimamut.jpg"
+  },
+  {
+    "id": 123,
+    "nombre": "Mochila 5.11",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila táctica inspirada en el diseño 5.11, ideal para uso diario, trabajo y actividades al aire libre.",
+    "caracteristicas": [
+      "Diseño táctico",
+      "Compartimentos múltiples",
+      "Alta resistencia"
+    ],
+    "imagen": "img/mochilas/mochila-5.11.jpg"
+  },
+  {
+    "id": 124,
+    "nombre": "Mochila Cóndor Caqui",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila táctica color caqui con amplio espacio de almacenamiento para equipo y accesorios.",
+    "caracteristicas": [
+      "Color caqui",
+      "Gran capacidad",
+      "Material resistente"
+    ],
+    "imagen": "img/mochilas/mochila-condor-caqui.jpg"
+  },
+  {
+    "id": 125,
+    "nombre": "Mochila Cóndor Negra",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila táctica color negro diseñada para transportar equipo de forma segura y organizada.",
+    "caracteristicas": [
+      "Color negro",
+      "Compartimentos múltiples",
+      "Alta durabilidad"
+    ],
+    "imagen": "img/mochilas/mochila-condor-negro.jpg"
+  },
+  {
+    "id": 126,
+    "nombre": "Mochila de Combate",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila de combate con diseño táctico y gran capacidad para transportar equipamiento durante operaciones y expediciones.",
+    "caracteristicas": [
+      "Gran capacidad",
+      "Diseño táctico",
+      "Correas acolchadas"
+    ],
+    "imagen": "img/mochilas/mochila-de-combate.jpg"
+  },
+  {
+    "id": 127,
+    "nombre": "Mochila Huevo de Dragón Caqui",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila táctica tipo 'Huevo de Dragón' en color caqui, ideal para uso diario y actividades outdoor.",
+    "caracteristicas": [
+      "Diseño compacto",
+      "Color caqui",
+      "Material resistente"
+    ],
+    "imagen": "img/mochilas/mochila-huevo-de-dragon-caqui.jpg"
+  },
+  {
+    "id": 128,
+    "nombre": "Mochila Negra",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila táctica color negro con amplio espacio para transportar equipo y objetos personales.",
+    "caracteristicas": [
+      "Color negro",
+      "Gran capacidad",
+      "Uso diario"
+    ],
+    "imagen": "img/mochilas/mochila-negra.jpg"
+  },
+  {
+    "id": 129,
+    "nombre": "Mochila Porta Laptop",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila diseñada para transportar computadoras portátiles y accesorios con seguridad y comodidad.",
+    "caracteristicas": [
+      "Compartimento para laptop",
+      "Diseño ergonómico",
+      "Material resistente"
+    ],
+    "imagen": "img/mochilas/mochila-portalaptop.jpg"
+  },
+  {
+    "id": 130,
+    "nombre": "Antiparras",
+    "categoria": "Accesorios",
+    "descripcion": "Antiparras tácticas diseñadas para proteger los ojos durante actividades operativas y deportivas.",
+    "caracteristicas": ["Protección ocular", "Lente resistente", "Ajuste elástico"],
+    "imagen": "img/accesorios/antiparras.jpg"
+  },
+  {
+    "id": 131,
+    "nombre": "Bolsa de Recuperación Caqui",
+    "categoria": "Accesorios",
+    "descripcion": "Bolsa táctica de recuperación en color caqui para transportar equipo de manera segura.",
+    "caracteristicas": ["Color caqui", "Material resistente", "Uso táctico"],
+    "imagen": "img/accesorios/bolsa-de-recuperacion-caqui.jpg"
+  },
+  {
+    "id": 132,
+    "nombre": "Bolsa de Recuperación Negra",
+    "categoria": "Accesorios",
+    "descripcion": "Bolsa táctica de recuperación en color negro con gran resistencia para uso profesional.",
+    "caracteristicas": ["Color negro", "Alta resistencia", "Diseño compacto"],
+    "imagen": "img/accesorios/bolsa-de-recuperacion-negro.jpg"
+  },
+  {
+    "id": 133,
+    "nombre": "Brújula",
+    "categoria": "Accesorios",
+    "descripcion": "Brújula de orientación ideal para camping, senderismo y actividades tácticas.",
+    "caracteristicas": ["Alta precisión", "Diseño compacto", "Fácil lectura"],
+    "imagen": "img/accesorios/brujula.jpg"
+  },
+  {
+    "id": 134,
+    "nombre": "Camelback Negro",
+    "categoria": "Accesorios",
+    "descripcion": "Sistema de hidratación Camelback en color negro para largas jornadas.",
+    "caracteristicas": ["Color negro", "Sistema de hidratación", "Uso táctico"],
+    "imagen": "img/accesorios/camelback-negro.jpg"
+  },
+  {
+    "id": 135,
+    "nombre": "Correaje Negro",
+    "categoria": "Accesorios",
+    "descripcion": "Correaje táctico negro para portar equipo de forma cómoda y segura.",
+    "caracteristicas": ["Color negro", "Alta resistencia", "Ajustable"],
+    "imagen": "img/accesorios/correaje-negro.jpg"
+  },
+  {
+    "id": 136,
+    "nombre": "Costurero",
+    "categoria": "Accesorios",
+    "descripcion": "Kit de costura compacto para reparaciones rápidas en campo.",
+    "caracteristicas": ["Compacto", "Portátil", "Uso práctico"],
+    "imagen": "img/accesorios/costurero.jpg"
+  },
+  {
+    "id": 137,
+    "nombre": "Esposas Marca Alaska",
+    "categoria": "Accesorios",
+    "descripcion": "Esposas metálicas marca Alaska de alta resistencia para uso profesional.",
+    "caracteristicas": ["Acero resistente", "Incluye llaves", "Uso profesional"],
+    "imagen": "img/accesorios/esposas-marca-Alaska.jpg"
+  },
+  {
+    "id": 138,
+    "nombre": "Línea de Vida",
+    "categoria": "Accesorios",
+    "descripcion": "Línea de vida para trabajos de seguridad y actividades tácticas.",
+    "caracteristicas": ["Alta resistencia", "Material reforzado", "Uso profesional"],
+    "imagen": "img/accesorios/linea-de-vida.jpg"
+  },
+  {
+    "id": 139,
+    "nombre": "Linterna de Cabeza",
+    "categoria": "Accesorios",
+    "descripcion": "Linterna frontal recargable para actividades nocturnas.",
+    "caracteristicas": ["LED potente", "Correa ajustable", "Recargable"],
+    "imagen": "img/accesorios/linterna-de-cabeza.jpg"
+  },
+  {
+    "id": 140,
+    "nombre": "Mosquetón",
+    "categoria": "Accesorios",
+    "descripcion": "Mosquetón metálico resistente para sujetar accesorios y equipo.",
+    "caracteristicas": ["Metal resistente", "Ligero", "Multiuso"],
+    "imagen": "img/accesorios/mosqueton.jpg"
+  },
+  {
+    "id": 141,
+    "nombre": "Muslera de Pistola Caqui",
+    "categoria": "Accesorios",
+    "descripcion": "Muslera táctica color caqui para portar pistola de forma segura.",
+    "caracteristicas": ["Color caqui", "Ajustable", "Alta resistencia"],
+    "imagen": "img/accesorios/muslera-de-pistola-caqui.jpg"
+  },
+  {
+    "id": 142,
+    "nombre": "Muslera de Pistola Negra",
+    "categoria": "Accesorios",
+    "descripcion": "Muslera táctica color negro para portar arma corta.",
+    "caracteristicas": ["Color negro", "Correas ajustables", "Diseño ergonómico"],
+    "imagen": "img/accesorios/muslera-de-pistola-negro.jpg"
+  },
+  {
+    "id": 143,
+    "nombre": "Porta Botiquín",
+    "categoria": "Accesorios",
+    "descripcion": "Porta botiquín táctico para transportar suministros médicos esenciales.",
+    "caracteristicas": ["Sistema MOLLE", "Compacto", "Material resistente"],
+    "imagen": "img/accesorios/porta-botiquin.jpg"
+  },
+  {
+    "id": 144,
+    "nombre": "Porta Cargador de Fusil",
+    "categoria": "Accesorios",
+    "descripcion": "Porta cargador táctico para fusil compatible con sistema MOLLE.",
+    "caracteristicas": ["Sistema MOLLE", "Alta resistencia", "Acceso rápido"],
+    "imagen": "img/accesorios/porta-cargador-de-fusil.jpg"
+  },
+  {
+    "id": 145,
+    "nombre": "Portacargador de Policarbonato Caqui",
+    "categoria": "Accesorios",
+    "descripcion": "Portacargador de policarbonato en color caqui para uso táctico.",
+    "caracteristicas": ["Policarbonato", "Color caqui", "Alta resistencia"],
+    "imagen": "img/accesorios/portacargador-de-policarbonato-caqui.jpg"
+  },
+  {
+    "id": 146,
+    "nombre": "Porta Fusil Táctico Negro",
+    "categoria": "Accesorios",
+    "descripcion": "Correa porta fusil táctica en color negro para mayor comodidad.",
+    "caracteristicas": ["Color negro", "Ajustable", "Alta resistencia"],
+    "imagen": "img/accesorios/porta-fusil-tactico-negro.jpg"
+  },
+  {
+    "id": 147,
+    "nombre": "Porta Machete",
+    "categoria": "Accesorios",
+    "descripcion": "Funda táctica para transportar machete de forma segura.",
+    "caracteristicas": ["Material resistente", "Sistema de fijación", "Uso táctico"],
+    "imagen": "img/accesorios/porta-machete.jpg"
+  },
+  {
+    "id": 148,
+    "nombre": "Porta Manillas de Policarbonato Caqui",
+    "categoria": "Accesorios",
+    "descripcion": "Porta manillas fabricado en policarbonato para uso policial.",
+    "caracteristicas": ["Color caqui", "Policarbonato", "Alta resistencia"],
+    "imagen": "img/accesorios/porta-manillas-de-policarbonato-caqui.jpg"
+  },
+  {
+    "id": 149,
+    "nombre": "Porta Pistola de Policarbonato",
+    "categoria": "Accesorios",
+    "descripcion": "Funda rígida de policarbonato para portar pistola.",
+    "caracteristicas": ["Policarbonato", "Sistema de retención", "Uso profesional"],
+    "imagen": "img/accesorios/porta-pistola-de-policarbonato.jpg"
+  },
+  {
+    "id": 150,
+    "nombre": "Porta Silbato",
+    "categoria": "Accesorios",
+    "descripcion": "Accesorio para portar silbato de forma segura y accesible.",
+    "caracteristicas": ["Compacto", "Ligero", "Uso diario"],
+    "imagen": "img/accesorios/porta-silbato.jpg"
+  },
+  {
+    "id": 151,
+    "nombre": "Ración Seca",
+    "categoria": "Accesorios",
+    "descripcion": "Ración alimenticia de emergencia para actividades prolongadas.",
+    "caracteristicas": ["Larga duración", "Fácil transporte", "Uso outdoor"],
+    "imagen": "img/accesorios/racion-seca.jpg"
+  },
+  {
+    "id": 152,
+    "nombre": "Recuperador de Pistola Tipo Yoyo",
+    "categoria": "Accesorios",
+    "descripcion": "Recuperador retráctil tipo yoyo para asegurar el arma.",
+    "caracteristicas": ["Sistema retráctil", "Alta resistencia", "Uso táctico"],
+    "imagen": "img/accesorios/recuperador-de-pistola-en-forma-de-yoyo.jpg"
+  },
+  {
+    "id": 153,
+    "nombre": "Recuperador de Pistola Negro",
+    "categoria": "Accesorios",
+    "descripcion": "Recuperador de pistola en color negro para mayor seguridad.",
+    "caracteristicas": ["Color negro", "Cable resistente", "Uso profesional"],
+    "imagen": "img/accesorios/recuperador-de-pistola-negra.jpg"
+  },
+  {
+    "id": 154,
+    "nombre": "Recuperador de Pistola Táctico",
+    "categoria": "Accesorios",
+    "descripcion": "Recuperador táctico diseñado para evitar la pérdida del arma.",
+    "caracteristicas": ["Uso táctico", "Alta resistencia", "Diseño compacto"],
+    "imagen": "img/accesorios/recuperador-de-pistola-tactico.jpg"
+  },
+  {
+    "id": 155,
+    "nombre": "Silbato",
+    "categoria": "Accesorios",
+    "descripcion": "Silbato de emergencia para señalización y rescate.",
+    "caracteristicas": ["Sonido potente", "Compacto", "Ligero"],
+    "imagen": "img/accesorios/silbato.jpg"
+  },
+  {
+    "id": 156,
+    "nombre": "Sleeping",
+    "categoria": "Accesorios",
+    "descripcion": "Sleeping bag para campamento y actividades al aire libre.",
+    "caracteristicas": ["Aislante térmico", "Ligero", "Fácil transporte"],
+    "imagen": "img/accesorios/slipings.jpg"
+  },
+  {
+    "id": 157,
+    "nombre": "Mochila Camelback",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila táctica con sistema Camelback para hidratación durante largas jornadas.",
+    "caracteristicas": ["Sistema de hidratación", "Gran capacidad", "Material resistente"],
+    "imagen": "img/mochilas/mochila-camelback.jpg"
+  },
+  {
+    "id": 158,
+    "nombre": "Mochila Camelback Negra",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila Camelback color negro ideal para actividades tácticas y deportivas.",
+    "caracteristicas": ["Color negro", "Sistema de hidratación", "Correas ajustables"],
+    "imagen": "img/mochilas/mochila-camelbak-negro.jpg"
+  },
+  {
+    "id": 159,
+    "nombre": "Mochila Cóndor",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila táctica Cóndor de alta resistencia para uso diario y operativo.",
+    "caracteristicas": ["Gran capacidad", "Material reforzado", "Compartimentos múltiples"],
+    "imagen": "img/mochilas/mochila-condor.jpg"
+  },
+  {
+    "id": 160,
+    "nombre": "Mochila Cóndor Táctica Caqui",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila táctica color caqui diseñada para transportar equipamiento de forma segura.",
+    "caracteristicas": ["Color caqui", "Sistema MOLLE", "Alta resistencia"],
+    "imagen": "img/mochilas/mochila-condor-tactico-caqui.jpg"
+  },
+  {
+    "id": 161,
+    "nombre": "Mochila Cóndor Táctica Negra",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila táctica negra con múltiples compartimentos y sistema MOLLE.",
+    "caracteristicas": ["Color negro", "Sistema MOLLE", "Gran capacidad"],
+    "imagen": "img/mochilas/mochila-condor-tactico-negro.jpg"
+  },
+  {
+    "id": 162,
+    "nombre": "Mochila de Campamento",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila de gran capacidad ideal para camping y actividades al aire libre.",
+    "caracteristicas": ["Gran capacidad", "Correas acolchadas", "Material resistente"],
+    "imagen": "img/mochilas/mochila-de-campamento.jpg"
+  },
+  {
+    "id": 163,
+    "nombre": "Mochila Importada",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila táctica importada con diseño moderno y excelente resistencia.",
+    "caracteristicas": ["Importada", "Alta calidad", "Uso táctico"],
+    "imagen": "img/mochilas/mochila-importada.jpg"
+  },
+  {
+    "id": 164,
+    "nombre": "Mochila Maletín",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila tipo maletín para transportar equipos y accesorios con comodidad.",
+    "caracteristicas": ["Diseño convertible", "Compartimentos múltiples", "Uso diario"],
+    "imagen": "img/mochilas/mochila-maletin.jpg"
+  },
+  {
+    "id": 165,
+    "nombre": "Mochila Táctica Importada",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila táctica importada para uso profesional y actividades outdoor.",
+    "caracteristicas": ["Gran capacidad", "Material resistente", "Diseño táctico"],
+    "imagen": "img/mochilas/mochila-tactica-importada.jpg"
+  },
+  {
+    "id": 166,
+    "nombre": "Mochila Tiger",
+    "categoria": "Mochilas",
+    "descripcion": "Mochila táctica Tiger diseñada para transportar equipo de forma segura.",
+    "caracteristicas": ["Diseño ergonómico", "Compartimentos múltiples", "Alta resistencia"],
+    "imagen": "img/mochilas/mochila-tiger.jpg"
+  },
+  {
+    "id": 167,
+    "nombre": "Casco MICH",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Casco táctico tipo MICH diseñado para brindar protección y comodidad.",
+    "caracteristicas": ["Diseño MICH", "Alta resistencia", "Sistema de ajuste"],
+    "imagen": "img/cabeza/casco-mich.jpg"
+  },
+  {
+    "id": 168,
+    "nombre": "Casco PM",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Casco de protección para uso táctico y operativo.",
+    "caracteristicas": ["Material resistente", "Diseño ergonómico", "Uso profesional"],
+    "imagen": "img/cabeza/casco-pm.jpg"
+  },
+  {
+    "id": 169,
+    "nombre": "Gorras Caqui",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Gorras tácticas color caqui para uso diario y actividades al aire libre.",
+    "caracteristicas": ["Color caqui", "Ajustables", "Material resistente"],
+    "imagen": "img/cabeza/gorra-caqui.jpg"
+  },
+  {
+    "id": 170,
+    "nombre": "Jockey de la ANAPOL",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Jockey institucional de la Academia Nacional de Policías.",
+    "caracteristicas": ["Diseño institucional", "Material resistente", "Ajustable"],
+    "imagen": "img/cabeza/jokey-de-la-anapol.jpg"
+  },
+  {
+    "id": 171,
+    "nombre": "Jockey DIPROVE",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Jockey institucional de la Dirección de Prevención e Investigación de Robo de Vehículos.",
+    "caracteristicas": ["Diseño institucional", "Color oficial", "Ajustable"],
+    "imagen": "img/cabeza/jokey-de-diprove.jpg"
+  },
+  {
+    "id": 172,
+    "nombre": "Jockey FELCV",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Jockey institucional de la Fuerza Especial de Lucha Contra la Violencia.",
+    "caracteristicas": ["Diseño institucional", "Alta calidad", "Ajustable"],
+    "imagen": "img/cabeza/jokey-de-felcv.jpg"
+  },
+  {
+    "id": 173,
+    "nombre": "Jockey Policía Boliviana",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Jockey oficial con diseño representativo de la Policía Boliviana.",
+    "caracteristicas": ["Diseño oficial", "Material resistente", "Uso institucional"],
+    "imagen": "img/cabeza/jokey-de-la-policia-boliviana.jpg"
+  },
+  {
+    "id": 174,
+    "nombre": "Jockey Deportivo del Ejército",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Jockey deportivo representativo del Ejército Boliviano.",
+    "caracteristicas": ["Diseño deportivo", "Material ligero", "Ajustable"],
+    "imagen": "img/cabeza/jokey-del-deportivo-del-ejercito.jpg"
+  },
+  {
+    "id": 175,
+    "nombre": "Kepí Camuflado",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Kepí con diseño camuflado para uniforme táctico.",
+    "caracteristicas": ["Diseño camuflado", "Material resistente", "Uso táctico"],
+    "imagen": "img/cabeza/kepi-camuflado.jpg"
+  },
+  {
+    "id": 176,
+    "nombre": "Kepí Lobo Marino Triton",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Kepí Lobo Marino confeccionado en tela Triton.",
+    "caracteristicas": ["Tela Triton", "Alta resistencia", "Diseño militar"],
+    "imagen": "img/cabeza/kepi-lobo-marino-triton.jpg"
+  },
+  {
+    "id": 177,
+    "nombre": "Kepí Negro",
+    "categoria": "Cabeza y Protección",
+    "descripcion": "Kepí negro para uniforme táctico e institucional.",
+    "caracteristicas": ["Color negro", "Material resistente", "Diseño clásico"],
+    "imagen": "img/cabeza/kepi-negro.jpg"
+  },
+  {
+    "id": 178,
+    "nombre": "Pantalón Táctico Caqui",
+    "categoria": "Uniformes",
+    "descripcion": "Pantalón táctico color caqui diseñado para brindar comodidad y resistencia en actividades operativas.",
+    "caracteristicas": ["Color caqui", "Múltiples bolsillos", "Tela resistente"],
+    "imagen": "img/uniformes/pantalon-tactico-caqui.jpg"
+  },
+  {
+    "id": 179,
+    "nombre": "Pantalón Táctico Negro",
+    "categoria": "Uniformes",
+    "descripcion": "Pantalón táctico color negro ideal para uso profesional y actividades al aire libre.",
+    "caracteristicas": ["Color negro", "Tela resistente", "Diseño ergonómico"],
+    "imagen": "img/uniformes/pantalon-tactico-negro.jpg"
+  },
+  {
+      "id": 180,
+      "nombre": "Pantalón Táctico Caqui",
+      "categoria": "Uniformes",
+      "descripcion": "Pantalón táctico color caqui diseñado para brindar comodidad y resistencia durante actividades operativas, entrenamiento y uso diario.",
+      "caracteristicas": [
+          "Color caqui",
+          "Tela resistente",
+          "Múltiples bolsillos"
+      ],
+      "imagen": "img/uniformes/pantalon-tactico-caqui.jpg"
+  },
+  {
+      "id": 181,
+      "nombre": "Pantalón Táctico Negro",
+      "categoria": "Uniformes",
+      "descripcion": "Pantalón táctico color negro fabricado para ofrecer comodidad, durabilidad y libertad de movimiento en cualquier actividad.",
+      "caracteristicas": [
+          "Color negro",
+          "Tela resistente",
+          "Diseño ergonómico"
+      ],
+      "imagen": "img/uniformes/pantalon-tactico-negro.jpg"
+  }
+]
+
