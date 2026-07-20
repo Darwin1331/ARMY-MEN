@@ -1501,7 +1501,7 @@
   },
   {
     "id": 126,
-    "nombre": "Mochila de Combate",
+    "nombre": "Mochila de Combate Americano",
     "categoria": "Mochilas",
     "descripcion": "Mochila de combate con diseño táctico y gran capacidad para transportar equipamiento durante operaciones y expediciones.",
     "caracteristicas": [
@@ -1509,7 +1509,7 @@
       "Diseño táctico",
       "Correas acolchadas"
     ],
-    "imagen": "img/mochilas/mochila-de-combate.jpg"
+    "imagen": "img/mochilas/mochila-de-combate-americano.jpg"
   },
   {
     "id": 127,
@@ -1970,6 +1970,305 @@
           "Diseño ergonómico"
       ],
       "imagen": "img/uniformes/pantalon-tactico-negro.jpg"
-  }
+  },
+  {
+  "id": 182,
+  "nombre": "Brújula con Porta Brújula",
+  "categoria": "Accesorios",
+  "descripcion": "Brújula con funda protectora diseñada para orientación en actividades tácticas, senderismo y supervivencia.",
+  "caracteristicas": [
+    "Brújula de orientación",
+    "Incluye porta brújula",
+    "Fácil transporte"
+  ],
+  "imagen": "img/accesorios/brujula-y-porta-brujula.jpg"
+},
+{
+  "id": 183,
+  "nombre": "Cantimplora",
+  "categoria": "Accesorios",
+  "descripcion": "Cantimplora resistente para transportar agua durante actividades militares, deportivas o al aire libre.",
+  "caracteristicas": [
+    "Ligera y resistente",
+    "Ideal para hidratación",
+    "Uso táctico"
+  ],
+  "imagen": "img/accesorios/cantinflora.jpg"
+},
+{
+  "id": 184,
+  "nombre": "Cinturón Táctico 7.55 y Cóndor",
+  "categoria": "Accesorios",
+  "descripcion": "Cinturón táctico reforzado diseñado para soportar accesorios y equipos de trabajo.",
+  "caracteristicas": [
+    "Alta resistencia",
+    "Ajuste seguro",
+    "Compatible con accesorios"
+  ],
+  "imagen": "img/accesorios/cinturon-tactico-7.55-y-condor.jpg"
+},
+{
+  "id": 185,
+  "nombre": "Guantes de Lana Caqui y Negro",
+  "categoria": "Accesorios",
+  "descripcion": "Guantes de lana ideales para proteger las manos del frío durante actividades al aire libre.",
+  "caracteristicas": [
+    "Colores caqui y negro",
+    "Cómodos y cálidos",
+    "Uso diario"
+  ],
+  "imagen": "img/accesorios/guantes-de-lana-caqui-y-negro.jpg"
+},
+{
+  "id": 186,
+  "nombre": "Guantes Tácticos con Nudillos Caqui",
+  "categoria": "Accesorios",
+  "descripcion": "Guantes tácticos reforzados con protección en nudillos para mayor seguridad y agarre.",
+  "caracteristicas": [
+    "Protección en nudillos",
+    "Color caqui",
+    "Buen agarre"
+  ],
+  "imagen": "img/accesorios/guantes-tacticos-nudillos-caqui.jpg"
+},
+{
+  "id": 187,
+  "nombre": "Guantes Tácticos con Nudillos Collote",
+  "categoria": "Accesorios",
+  "descripcion": "Guantes tácticos color collote con protección reforzada para uso profesional.",
+  "caracteristicas": [
+    "Protección rígida",
+    "Color collote",
+    "Diseño ergonómico"
+  ],
+  "imagen": "img/accesorios/guantes-tacticos-nudillos-collote.jpg"
+},
+{
+  "id": 188,
+  "nombre": "Linterna de Cabeza Cafini",
+  "categoria": "Accesorios",
+  "descripcion": "Linterna frontal recargable para actividades nocturnas y trabajos de campo.",
+  "caracteristicas": [
+    "Iluminación LED",
+    "Manos libres",
+    "Banda ajustable"
+  ],
+  "imagen": "img/accesorios/linterna-de-cabeza-marca-cafini.jpg"
+},
+{
+  "id": 189,
+  "nombre": "Medias de Lana y Algodón",
+  "categoria": "Accesorios",
+  "descripcion": "Medias fabricadas en lana y algodón que brindan comodidad y protección durante largas jornadas.",
+  "caracteristicas": [
+    "Material cómodo",
+    "Buena transpiración",
+    "Uso diario"
+  ],
+  "imagen": "img/accesorios/medias-de-lana-y-algodon.jpg"
+},
+{
+  "id": 190,
+  "nombre": "Multiusos de Supervivencia",
+  "categoria": "Accesorios",
+  "descripcion": "Herramienta multifunción diseñada para actividades de supervivencia y campamento.",
+  "caracteristicas": [
+    "Multifunción",
+    "Compacto",
+    "Fácil transporte"
+  ],
+  "imagen": "img/accesorios/multiusos-de-supervivencia.jpg"
+},
+{
+  "id": 191,
+  "nombre": "Pantuflas Fatecipol ANAPOL",
+  "categoria": "Accesorios",
+  "descripcion": "Pantuflas cómodas utilizadas para uso institucional y descanso.",
+  "caracteristicas": [
+    "Material confortable",
+    "Diseño ligero",
+    "Uso diario"
+  ],
+  "imagen": "img/accesorios/pantuflas-fatecipol-anapol.jpg"
+},
+{
+  "id": 192,
+  "nombre": "Porta Botiquín Sistema MOLLE",
+  "categoria": "Accesorios",
+  "descripcion": "Bolsa porta botiquín compatible con sistema MOLLE para acceso rápido al equipo médico.",
+  "caracteristicas": [
+    "Sistema MOLLE",
+    "Alta resistencia",
+    "Fácil instalación"
+  ],
+  "imagen": "img/accesorios/porta-botiquin-sistema-molle.jpg"
+},
+{
+  "id": 193,
+  "nombre": "Porta Fusil de Dos Puntas",
+  "categoria": "Accesorios",
+  "descripcion": "Correa táctica de dos puntos para portar el fusil de forma cómoda y segura.",
+  "caracteristicas": [
+    "Dos puntos de anclaje",
+    "Correa ajustable",
+    "Alta resistencia"
+  ],
+  "imagen": "img/accesorios/porta-fusil-de-dos-puntas.jpg"
+},
+{
+  "id": 194,
+  "nombre": "Porta Libreta Táctico",
+  "categoria": "Accesorios",
+  "descripcion": "Funda táctica para libreta con compartimentos para documentos y accesorios.",
+  "caracteristicas": [
+    "Compartimentos internos",
+    "Material resistente",
+    "Diseño compacto"
+  ],
+  "imagen": "img/accesorios/porta-libreta-tactico.jpg"
+},
+{
+  "id": 195,
+  "nombre": "Primera Línea Completo con Materiales de Policarbonato",
+  "categoria": "Accesorios",
+  "descripcion": "Equipo táctico de primera línea equipado con accesorios fabricados en policarbonato.",
+  "caracteristicas": [
+    "Material resistente",
+    "Equipo completo",
+    "Uso profesional"
+  ],
+  "imagen": "img/accesorios/primera-linea-completo-con-materiales-de-policarbonato.jpg"
+},
+{
+  "id": 196,
+  "nombre": "Primera Línea con 8 Piezas en Lona",
+  "categoria": "Accesorios",
+  "descripcion": "Equipo táctico de primera línea compuesto por ocho piezas fabricadas en lona resistente.",
+  "caracteristicas": [
+    "8 piezas",
+    "Lona resistente",
+    "Sistema modular"
+  ],
+  "imagen": "img/accesorios/primera-linea-con-8-piezas-en-lona.jpg"
+},
+{
+  "id": 197,
+  "nombre": "Primera Línea con Materiales de Policarbonato",
+  "categoria": "Accesorios",
+  "descripcion": "Equipo táctico fabricado con accesorios de policarbonato para mayor resistencia.",
+  "caracteristicas": [
+    "Material reforzado",
+    "Diseño táctico",
+    "Alta durabilidad"
+  ],
+  "imagen": "img/accesorios/primera-linea-con-materiales-de-policarbonato.jpg"
+},
+{
+  "id": 198,
+  "nombre": "Tapa Oídos",
+  "categoria": "Accesorios",
+  "descripcion": "Protección auditiva diseñada para reducir el ruido durante entrenamientos y actividades de campo.",
+  "caracteristicas": [
+    "Protección auditiva",
+    "Diseño cómodo",
+    "Uso prolongado"
+  ],
+  "imagen": "img/accesorios/tapa-oidos.jpg"
+},
+{
+  "id": 199,
+  "nombre": "Mochila de Combate Nacional",
+  "categoria": "Mochilas",
+  "descripcion": "Mochila nacional diseñada para actividades tácticas, campamento y uso diario.",
+  "caracteristicas": [
+    "Amplia capacidad",
+    "Material resistente",
+    "Correas ajustables"
+  ],
+  "imagen": "img/mochilas/mochila-de-combate-nacional.jpg"
+},
+{
+  "id": 200,
+  "nombre": "Mochila Tiger para Campamento",
+  "categoria": "Mochilas",
+  "descripcion": "Mochila de gran capacidad ideal para campamento, senderismo y actividades tácticas.",
+  "caracteristicas": [
+    "Gran capacidad",
+    "Diseño ergonómico",
+    "Uso en exteriores"
+  ],
+  "imagen": "img/mochilas/mochila-tiger-para-campamento.jpg"
+},
+{
+  "id": 201,
+  "nombre": "Boina Multicam",
+  "categoria": "Cabeza y Protección",
+  "descripcion": "Boina estilo multicam diseñada para uso táctico e institucional.",
+  "caracteristicas": [
+    "Diseño multicam",
+    "Material cómodo",
+    "Ajuste confortable"
+  ],
+  "imagen": "img/cabeza/boina-multicam.jpg"
+},
+{
+  "id": 202,
+  "nombre": "Kepi Multicam Imitación Triton",
+  "categoria": "Cabeza y Protección",
+  "descripcion": "Kepi multicam de diseño táctico inspirado en el modelo Triton.",
+  "caracteristicas": [
+    "Camuflaje multicam",
+    "Visera resistente",
+    "Uso táctico"
+  ],
+  "imagen": "img/cabeza/kepi-multicam-imitacion-triton.jpg"
+},
+{
+  "id": 203,
+  "nombre": "Kepi Multicam Triton",
+  "categoria": "Cabeza y Protección",
+  "descripcion": "Kepi multicam marca Triton diseñado para actividades tácticas y de entrenamiento.",
+  "caracteristicas": [
+    "Marca Triton",
+    "Material resistente",
+    "Diseño profesional"
+  ],
+  "imagen": "img/cabeza/kepi-multicam-triton.jpg"
+},
+{
+  "id": 204,
+  "nombre": "Deportivo del Colegio Militar",
+  "categoria": "Uniformes",
+  "descripcion": "Conjunto deportivo utilizado en el Colegio Militar, diseñado para entrenamiento físico.",
+  "caracteristicas": [
+    "Tela deportiva",
+    "Cómodo",
+    "Uso institucional"
+  ],
+  "imagen": "img/uniformes/deportivo-del-colegio-militar.jpg"
+},
+{
+  "id": 205,
+  "nombre": "Deportivo del Ejército",
+  "categoria": "Uniformes",
+  "descripcion": "Conjunto deportivo del Ejército elaborado para entrenamiento y actividades físicas.",
+  "caracteristicas": [
+    "Tela resistente",
+    "Diseño deportivo",
+    "Uso institucional"
+  ],
+  "imagen": "img/uniformes/deportivo-del-ejercito.jpg"
+},
+{
+  "id": 206,
+  "nombre": "Chaleco de Red",
+  "categoria": "Chalecos",
+  "descripcion": "Chaleco de red ligero ideal para actividades tácticas y entrenamiento en climas cálidos.",
+  "caracteristicas": [
+    "Material transpirable",
+    "Ligero",
+    "Uso táctico"
+  ],
+  "imagen": "img/chalecos/chaleco-de-red.jpg"
+}
 ]
-
